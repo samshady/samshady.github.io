@@ -1,12 +1,18 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: YesNoBuyBuy
+title: YesNoBuyBuy | Where we talk
+description: YesNoBuyBuy is where we talk about what is worth buying.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
+  - tech
+  - shopping
+  - review
+  - product
+  - opinion
+  - buy
+  - purchase
+  - offer
+  - sale
+  - rating
+email: sameer.rana2@gmail.com   
 disqus_username: disqus_username
 show_hero: true
