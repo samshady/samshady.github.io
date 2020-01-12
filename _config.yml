@@ -22,9 +22,9 @@ show_hero: true
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: github_username
-facebook_username: facebook_username
+facebook_username: yesnobuybuy
 twitter_username: twitter_username
-instagram_username: yesnobuybuy
+instagram_username: yesno buybuy
 linkedin_username: linkedin_username
 medium_username: medium_username
 
@@ -46,7 +46,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://yesnobuybuy.com/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 
