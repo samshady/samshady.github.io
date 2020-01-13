@@ -1,7 +1,7 @@
 # Site Settings
 name: YesNoBuyBuy
 title: YesNoBuyBuy | Where we talk
-description: YesNoBuyBuy is where we talk about what is worth buying.
+description: YesNoBuyBuy is where we discuss what is actually worth spending time and money on.
 tags:
   - blog
   - tech
@@ -14,19 +14,17 @@ tags:
   - offer
   - sale
   - rating
-email: sameer.rana2@gmail.com   
-disqus_username: disqus_username
+  - college
 show_hero: true
+email: sameer.rana2@gmail.com
+disqus_username: disqus_username
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
 facebook_username: yesnobuybuy
 twitter_username: twitter_username
-instagram_username: yesno buybuy
-linkedin_username: linkedin_username
-medium_username: medium_username
+instagram_username: yesnobuybuy
 
 
 # Theme Settings
@@ -39,7 +37,7 @@ texts: "#333333"
 
 # Posts Settings
 show_time_bar: false
-show_modal_on_exit: true
+show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
 

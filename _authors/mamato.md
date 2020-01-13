@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
+name: Phuonh Anh
 display_name: Mama To
 position: Chief Social Media Manager
 bio: Cool girl.
