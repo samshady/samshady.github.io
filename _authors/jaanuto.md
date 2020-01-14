@@ -1,12 +1,11 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: Phuonh Anh
-display_name: Mama To
-position: Chief Social Media Manager
-bio: Cool girl.
+name: Jan Jan
+display_name: Jan Jan
+position: Cat
+bio: Cool cat
 facebook_username: 
 twitter_username: 
 instagram_username: 
 ---
-

@@ -15,5 +15,5 @@ permalink: /contact/message-sent/
 <div class="container">
   <img src="/assets/img/message.gif" width="540" alt="Message sent!">
   <p><strong>Message sent!</strong></p>
-  <p>Thank you for sending us a message. We'll get back to you super quick!.</p>
+  <p>Thank you for sending us a message. We'll get back to you super duper quick!.</p>
 </div>
