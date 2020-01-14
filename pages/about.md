@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Some description.
+description: About YesNoBuyBuy
 permalink: /about/
 menu: true
 ---
