@@ -15,6 +15,9 @@ tags:
   - sale
   - rating
   - college
+  - university
+  - gifts
+  - recommendations
 show_hero: true
 email: sameer.rana2@gmail.com
 disqus_username: yesnobuybuy
@@ -44,7 +47,7 @@ two_columns_layout: false
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yesnobuybuy.com/" # the base hostname & protocol for your site
+url: "https://yesnobuybuy.com" # the base hostname & protocol for your site
 google_analytics: "UA-156169071-1"
 language: "en"
 
