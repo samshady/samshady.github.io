@@ -17,13 +17,25 @@ permalink: /newsletter/
   <h2>Free Newsletter. Full of tips and tricks.<h2>
 
   <div id="form" class="contact-form">
-    <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
-      <fieldset>
-        <input type="text" name="email" placeholder="Your e-mail" v-validate="'required|email'"
-               :class="{ 'has-error': errors.has('email') }">
-        <span v-if="errors.has('email')" v-cloak>${ errors.first('email') }</span>
-        <button type="submit">Send</button>
-      </fieldset>
+    <form accept-charset="UTF-8" method="POST" action="https://yesnobuybuy.us4.list-manage.com/subscribe/post?u=40dd6548738ab6332d8191dac&amp;id=fdda4bf76d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
+		<fieldset>
+			<input type="hidden" name="u" value="40dd6548738ab6332d8191dac">
+			<input type="hidden" name="id" value="fdda4bf76d">
+			<input type="hidden" name="_subject" value="New contact!" />
+			<input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
+			<input type="hidden" name="_language" value="{{ site.language }}" />
+	 
+			<input type="text" name="EMAIL" value="" placeholder="Your e-mail" v-validate="'required|email'"
+				:class="{ 'has-error': errors.has('EMAIL') }">
+			<span v-if="errors.has('EMAIL')" v-cloak>${ errors.first('EMAIL') }</span>
+			<div id="mce-responses" class="clear">
+				<div class="response" id="mce-error-response" style="display:none"></div>
+				<div class="response" id="mce-success-response" style="display:none"></div>
+			</div> 
+			<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_40dd6548738ab6332d8191dac_fdda4bf76d" tabindex="-1" value=""></div>
+		
+			<button type="submit">Send</button>
+		</fieldset>
     </form>
   </div>
 
@@ -55,3 +67,4 @@ new Vue({
 });
 </script>
 <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/40dd6548738ab6332d8191dac/d36b1ed2e9569edaf5e03d5ad.js");</script>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
