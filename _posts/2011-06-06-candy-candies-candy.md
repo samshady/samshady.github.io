@@ -63,13 +63,19 @@ But seriously, companies and reviewers love to throw out complicated names and n
   * What if I want like, 40 tabs? First of all, why. Second, No problem. Acer thought of that and left empty space for you inside the laptop to add more RAM. **You can make the 4 GB RAM into 32 GB** and have like 100 tabs open. #YOLO
 * Do you want your videos and photos and PDFs to load instantly? No problem. The **128 GB SSD** inside makes all your installed programs, your stored files and also Windows to open blazing fast.
 
-  * What if I have like, more than 128 GB of files. No problem. Acer thought of that too and left some empty space to add another SSD and expand your storage capacity. I added an additional 250 GB SSD to this laptop in under 15 minutes. It's that easy. To know how to do this and the RAM upgrade, scroll down to the Upgrades section.
+  * What if I have like, more than 128 GB of files. No problem. Acer thought of that too and left some empty space to add another SSD and expand your storage capacity. I added an additional 250 GB SSD to this laptop in under 15 minutes. It's that easy. If you want a detailed guide, leave a comment below!
 * Do you want to play some games or edit and stream HD videos? No problem. The latest **AMD Ryzen 3 processor** inside comes with integrated **Radeon Vega 3 graphics** and it will do that job for you quietly without complaining or asking you for a massage. If it does, then report it to the FBI immediately. 
 
   * To be noted is that this laptop also comes in more variants with higher specs like a better processor etc. But the price also goes up accordingly. We don't need that. 
 * **The battery life is great.** Usually, the thinner the laptop, the smaller the battery. That's not true for the Aspire. It has a big 4200 mAh battery that lasts almost **7 hours** on a single charge. That is just enough for one whole day of work or class. If you're going to be using it to do intensive tasks like playing games or watching videos with the brightness high, bring your charger along. It's small and cute and doesn't weigh that much. Don't be lazy. 
 * Nothing else. That's all the specs we need to talk about. If you're curious though, go check it out on Acer's website.
 
-# Price and Verdict 
+# Price and Verdict
 
-This where it gets good, this model of the Aspire 5 sells for around **300$** on amazon. Regular sale price is around **265$.** Even if it's not available in your country's amazon and you need to ship it from the US Amazon website, it costs around 60$ extra for the shipping and import fees. **This is hands down the best deal you can find for a new budget laptop in the market right now**. If value for your money is what is important to you then don't bother with Chromebooks or anything fancy and expensive. The Acer Aspire 5 with its easy to upgrade specs, premium looks and quality and all round solid performance is a big win for Acer and should be your next laptop.
+This where it gets good. This model of the Aspire 5 is listed for usually around **320$** on Amazon. Regular sale price is around an amazing **265$.** Even if it's not available in your country's Amazon and you need to ship it from the US website, it costs only around 60$ extra for the shipping and import fees still, which still keeps it well under 400$. 
+
+**This is hands down the best deal you can find for a new budget laptop in the market right now**. If value for your money is what is important to you then don't bother with Chromebooks or anything fancy and expensive. The Acer Aspire 5 with its easy to upgrade specs, premium looks and quality and all round solid performance is a big win for Acer and should absolutely be your choice for a budget laptop.
+
+**YESNOBUYBUY: YES**
+
+**[BUY NOW](https://assoc-redirect.amazon.com/g/r/https://amzn.to/365hlxz?tag=yesnobuybuy-20) from Amazon**
