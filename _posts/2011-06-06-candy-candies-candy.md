@@ -8,14 +8,11 @@ description: >-
   beautiful screen and powerful, easy to upgrade specs.
 image: /assets/img/uploads/big banner.png
 optimized_image: /assets/img/uploads/big banner_thumb.png
-category: work
+category: '{{slug}}'
 tags:
   - budget
   - laptop
   - student
-  - low-cost
-  - gaming
-  - ''
 author: Sam Rana
 paginate: true
 ---
