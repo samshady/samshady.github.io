@@ -42,88 +42,10 @@ I was honestly surprised by how good this laptop looks. After using it for a few
 Let's talk some numbers.
 
 * **Weight - 1.8 Kilograms**. Meaning? It's Light and Thin. You can pick it up with just one hand or rest it on your lap and not feel uncomfortable.
-* **Screen Size - 15.6 inches.** Meaning? It's a big boy. The screen is wide and crisp. This display is Full HD and IPS which guarantees you'll have fun when watching movies or working. No complaints.
-* **Speakers -** They perform well. They're on the bottom of the laptop and get relatively loud. In my experience, for watching the average youtube video or voice calls, I had no problems hearing anything.
+* **Screen Size - 15.6 inches.** Meaning? It's a big boy. The screen is wide and crisp. This display is **Full HD** and **IPS** which guarantees you'll have fun when watching movies or working. No complaints.
+* **Speakers -** They perform well. They're on the bottom of the laptop and get relatively loud. In my experience, for watching the average Youtube video or voice calls, I had no problems hearing anything.
 
-![](/assets/img/uploads/keyboard.png)
+![Aspire's full sized keyboard and touchpad and side view.](/assets/img/uploads/keyboard.png "Touchpad and keyboard")
 
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image") ![placeholder](https://placehold.it/400x200 "Medium example image") ![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+* **Keyboard and Touchpad -** I love this keyboard. One of the first things companies do to make budget laptops cheaper is to put in a bad keyboard with a weird layout. Not this time. The Aspire's keyboard is full sized and evenly spaced out so you don't have to cram your fingers into a tiny space. Oh and it's **backlit** too. The Touchpad is big, precise and overall they work really well together.
+* **The Ports -** What's that? Basically the sides of the laptop. This is where you can plug things in and out. The Aspire has 3 USB ports, 1 HDMI port, a 3.5mm headphone jack, and ... It's enough. Like, seriously.
