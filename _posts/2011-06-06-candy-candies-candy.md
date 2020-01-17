@@ -35,9 +35,17 @@ Acer Aspire 5 has **all** of this *and* a few more extras that make it worth eve
 
 # Design
 
-![](/assets/img/uploads/Aspire 5_A515-54_hero_large.jpg)
+![Photo of the Acer Aspire 5 from the front and side views](/assets/img/uploads/photo.png "Front and Side view")
 
-dfdfdfghgh
+I was honestly surprised by how good this laptop looks. After using it for a few weeks, I really appreciated the minimal, sleek approach Acer took with this laptop. There's nothing fancy here, no gimmicks and no let downs. You get exactly what you need and that's a sentence I can just use for every section of this review. 
+
+Let's talk some numbers.
+
+* **Weight - 1.8 Kilograms**. Meaning? It's Light and Thin. You can pick it up with just one hand or rest it on your lap and not feel uncomfortable.
+* **Screen Size - 15.6 inches.** Meaning? It's a big boy. The screen is wide and crisp. This display is Full HD and IPS which guarantees you'll have fun when watching movies or working. No complaints.
+* **Speakers -** They perform well. They're on the bottom of the laptop and get relatively loud. In my experience, for watching the average youtube video or voice calls, I had no problems hearing anything.
+
+
 
 ## Code
 
