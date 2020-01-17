@@ -56,7 +56,7 @@ Ah the specs. Everybody loves specs. Gotta have all the right specs. Specs for d
 
 But seriously, companies and reviewers love to throw out complicated names and numbers and expect the average consumer to understand what it all means. **They don't**. Not because they're stupid, no. Oh no no. They just don't have the time or the need. All they want is a computer that can do everything they need it to do. 
 
-The Aspire does everything you need it to do. It'll make you happy with how fast and reliable it is. 
+**The Aspire does everything you need it to do.** It'll make you happy with how fast and reliable it is. 
 
 * Do you want to have 20 tabs in Chrome open all the time? No problem. The **4 GB RAM** will take care of that.
 
@@ -69,3 +69,7 @@ The Aspire does everything you need it to do. It'll make you happy with how fast
   * To be noted is that this laptop also comes in more variants with higher specs like a better processor etc. But the price also goes up accordingly. We don't need that. 
 * **The battery life is great.** Usually, the thinner the laptop, the smaller the battery. That's not true for the Aspire. It has a big 4200 mAh battery that lasts almost **7 hours** on a single charge. That is just enough for one whole day of work or class. If you're going to be using it to do intensive tasks like playing games or watching videos with the brightness high, bring your charger along. It's small and cute and doesn't weigh that much. Don't be lazy. 
 * Nothing else. That's all the specs we need to talk about. If you're curious though, go check it out on Acer's website.
+
+# Price and Verdict 
+
+This where it gets good, this model of the Aspire 5 sells for around **300$** on amazon. Regular sale price is around **265$.** Even if it's not available in your country's amazon and you need to ship it from the US Amazon website, it costs around 60$ extra for the shipping and import fees. **This is hands down the best deal you can find for a new budget laptop in the market right now**. If value for your money is what is important to you then don't bother with Chromebooks or anything fancy and expensive. The Acer Aspire 5 with its easy to upgrade specs, premium looks and quality and all round solid performance is a big win for Acer and should be your next laptop.
