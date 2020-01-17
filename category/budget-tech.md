@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Budget Tech
-slug: '{{slug}}'
+title: budget
+slug: budget
 description: Best Bang For Buck Proucts
 ---
 
