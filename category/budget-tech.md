@@ -1,6 +1,6 @@
 ---
 layout: category
-title: budget
+title: Budget
 slug: budget
 description: Best Bang For Buck Proucts
 ---
