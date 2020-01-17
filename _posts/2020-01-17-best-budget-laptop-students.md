@@ -71,7 +71,7 @@ But seriously, companies and reviewers love to throw out complicated names and n
 
 # Price and Verdict
 
-This where it gets good. This model of the Aspire 5 is listed for usually around **320$** on Amazon. Regular sale price is around an amazing **265$.** Even if it's not available in your country's Amazon and you need to ship it from the US website, it costs only around 60$ extra for the shipping and import fees still, which still keeps it well under 400$. 
+This where it gets good. This model of the Aspire 5 is listed for usually around **320$** on Amazon. Regular sale price is around an amazing **265$.** Even if it's not available in your country's Amazon or it's too expensive and you need to ship it from the US website, its only around 60$ for the shipping and import fee, which still keeps it well under 400$. 
 
 **This is hands down the best deal you can find for a new budget laptop in the market right now**. If value for your money is what is important to you then don't bother with Chromebooks or anything fancy and expensive. The Acer Aspire 5 with its easy to upgrade specs, premium looks and quality and all round solid performance is a big win for Acer and should absolutely be your choice for a budget laptop.
 
