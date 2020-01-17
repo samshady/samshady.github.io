@@ -1,126 +1,81 @@
 ---
-date: 2018-04-21T12:26:40.000Z
+date: '2020-01-17 14:26:40'
 layout: post
 title: 'The Best Budget Laptop For Students in 2020: Acer Aspire 5'
-subtitle: 'Cheap, Fast and Beautiful. The only budget laptop you need as a student.'
+subtitle: 'Cheap, Fast, Lightweight and Beautiful. The only laptop you need as a student.'
 description: >-
-  The Best Budget Laptop for Students in 2020 under 400$: Acer Aspire 5 with a
-  beautiful screen and powerful specs.
-image: /assets/img/uploads/best_budget_laptop_acer.png
-optimized_image: /assets/img/uploads/best_budget_small.png
-category: diet
+  The Best Budget Laptop for Students in 2020 under 350$: Acer Aspire 5 with a
+  beautiful screen and powerful, easy to upgrade specs.
+image: /assets/img/uploads/big banner.png
+optimized_image: /assets/img/uploads/big banner_thumb.png
+category: work
 tags:
-  - food
-  - tips
-author: thiagorossener
+  - budget
+  - laptop
+  - student
+  - low-cost
+  - gaming
+  - ''
+author: Sam Rana
 paginate: true
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+If there's one thing you need to save in college, it's money. Let's be real for a second, the biggest priority for you when you're living in a student apartment and paying for fees, food and books, is to save wherever you can and still have the best experience you can get. If you're like me and you don't like to compromise, for only 300$, you can't go wrong with the Acer Aspire 5. Trust me.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+## What Do You Need In a Laptop Anyway?
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+It's simple. 
 
-## Inline HTML elements
+* **It has to be light** - Easy to carry to classes.
+* **It must be fast and powerful** - Runs everything nice and smooth.
+* **Looks good and feels great** - No one wants an ugly computer.
+* **Has a long battery life** - Charge only once and use the whole day.
+* **Has a good screen** - Obviously.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Acer Aspire 5 has **all** of this *and* a few more extras that make it worth every. single. penny. 
 
-* **To bold text**, use `<strong>`.
-* *To italicize text*, use `<em>`.
-* Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-* Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-* <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-* Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+# Design
 
-Most of these elements are styled by browsers with few modifications on our part.
+![Photo of the Acer Aspire 5 from the front and side views](/assets/img/uploads/photo.png "Front and Side view")
 
-# Heading 1
+I was honestly surprised by how good this laptop looks. After using it for a few weeks, I really appreciated the minimal, sleek approach Acer took with this laptop. There's nothing fancy here, no gimmicks and no let downs. You get exactly what you need and that's a sentence I can just use for every section of this review. 
 
-## Heading 2
+Let's talk some numbers.
 
-### Heading 3
+* **Weight - 1.8 Kilograms**. Meaning? It's Light and Thin. You can pick it up with just one hand or rest it on your lap and not feel uncomfortable.
+* **Screen Size - 15.6 inches.** Meaning? It's a big boy. The screen is wide, crisp and bright. This display is **Full HD** and **IPS** which guarantees you'll have fun when watching movies or working. No complaints.
+* **Speakers -** They perform well. They're on the bottom of the laptop and get relatively loud. In my experience, for watching the average Youtube video or voice calls, I had no problems hearing anything.
 
-#### Heading 4
+![Aspire's full sized keyboard and touchpad and side view.](/assets/img/uploads/keyboard.png "Touchpad and keyboard")
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+* **Keyboard and Touchpad -** I love this keyboard. One of the first things companies do to make budget laptops cheaper is to put in a bad keyboard with a weird layout. Not this time. The Aspire's keyboard is full sized and evenly spaced out so you don't have to cram your fingers into a tiny space. Oh and it's **backlit** too. The Touchpad is big, precise and overall they work really well together.
+* **The Ports -** What's that? Basically the sides of the laptop. This is where you can plug things in and out. The Aspire has 3 USB ports, 1 HDMI port, a 3.5mm headphone jack, and ... It's enough. Like, seriously.
 
-## Code
+# Specs
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+Ah the specs. Everybody loves specs. Gotta have all the right specs. Specs for days. Specs.
 
-```js
-// Example can be run directly in your JavaScript console
+But seriously, companies and reviewers love to throw out complicated names and numbers and expect the average consumer to understand what it all means. **They don't**. Not because they're stupid, no. Oh no no. They just don't have the time or the need. All they want is a computer that can do everything they need it to do. 
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+**The Aspire does everything you need it to do.** It'll make you happy with how fast and reliable it is. 
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+* Do you want to have 20 tabs in Chrome open all the time? No problem. The **4 GB RAM** will take care of that.
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+  * What if I want like, 40 tabs? First of all, why. Second, No problem. Acer thought of that and left empty space for you inside the laptop to add more RAM. **You can make the 4 GB RAM into 32 GB** and have like 100 tabs open. #YOLO
+* Do you want your videos and photos and PDFs to load instantly? No problem. The **128 GB SSD** inside makes all your installed programs, your stored files and also Windows to open blazing fast.
 
-## Lists
+  * What if I have like, more than 128 GB of files. No problem. Acer thought of that too and left some empty space to add another SSD and expand your storage capacity. I added an additional 250 GB SSD to this laptop in under 15 minutes. It's that easy. If you want a detailed guide, leave a comment below!
+* Do you want to play some games or edit and stream HD videos? No problem. The latest **AMD Ryzen 3 processor** inside comes with integrated **Radeon Vega 3 graphics** and it will do that job for you quietly without complaining or asking you for a massage. If it does, then report it to the FBI immediately. 
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  * To be noted is that this laptop also comes in more variants with higher specs like a better processor etc. But the price also goes up accordingly. We don't need that. 
+* **The battery life is great.** Usually, the thinner the laptop, the smaller the battery. That's not true for the Aspire. It has a big 4200 mAh battery that lasts almost **7 hours** on a single charge. That is just enough for one whole day of work or class. If you're going to be using it to do intensive tasks like playing games or watching videos with the brightness high, bring your charger along. It's small and cute and doesn't weigh that much. Don't be lazy. 
+* Nothing else. That's all the specs we need to talk about. If you're curious though, go check it out on Acer's website.
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+# Price and Verdict
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+This where it gets good. This model of the Aspire 5 is listed for usually around **320$** on Amazon. Regular sale price is around an amazing **265$.** Even if it's not available in your country's Amazon and you need to ship it from the US website, it costs only around 60$ extra for the shipping and import fees still, which still keeps it well under 400$. 
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+**This is hands down the best deal you can find for a new budget laptop in the market right now**. If value for your money is what is important to you then don't bother with Chromebooks or anything fancy and expensive. The Acer Aspire 5 with its easy to upgrade specs, premium looks and quality and all round solid performance is a big win for Acer and should absolutely be your choice for a budget laptop.
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+**YESNOBUYBUY: YES**
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image") ![placeholder](https://placehold.it/400x200 "Medium example image") ![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+**[BUY NOW](https://assoc-redirect.amazon.com/g/r/https://amzn.to/365hlxz?tag=yesnobuybuy-20) from Amazon**
