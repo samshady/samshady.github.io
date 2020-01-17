@@ -75,4 +75,4 @@ This where it gets good. This model of the Aspire 5 is listed for usually around
 
 **YESNOBUYBUY: YES**
 
-**[BUY NOW](https://amzn.to/30x6NGm) from Amazon**
+**[BUY NOW](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B07RF1XD36?tag=yesnobuybuy-20) from Amazon**
