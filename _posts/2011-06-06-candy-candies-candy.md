@@ -1,48 +1,43 @@
 ---
-date: 2018-04-21T12:26:40.000Z
+date: '2020-01-17 14:26:40'
 layout: post
 title: 'The Best Budget Laptop For Students in 2020: Acer Aspire 5'
-subtitle: 'Cheap, Fast and Beautiful. The only budget laptop you need as a student.'
+subtitle: 'Cheap, Fast, Lightweight and Beautiful. The only laptop you need as a student.'
 description: >-
-  The Best Budget Laptop for Students in 2020 under 400$: Acer Aspire 5 with a
-  beautiful screen and powerful specs.
+  The Best Budget Laptop for Students in 2020 under 350$: Acer Aspire 5 with a
+  beautiful screen and powerful, easy to upgrade specs.
 image: /assets/img/uploads/big banner.png
 optimized_image: /assets/img/uploads/big banner_thumb.png
-category: diet
+category: work
 tags:
-  - food
-  - tips
-author: thiagorossener
+  - budget
+  - laptop
+  - student
+  - low-cost
+  - gaming
+  - ''
+author: Sam Rana
 paginate: true
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+If there's one thing you need to save in college, it's money. Let's be real for a second, the biggest priority for you when you're living in a student apartment and paying for fees, food and books, is to save wherever you can and still have the best experience you can get. If you're like me and you don't like to compromise, for only 300$, you can't go wrong with the Acer Aspire 5. Trust me.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+## What Do You Need In a Laptop Anyway?
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+It's simple. 
 
-## Inline HTML elements
+* **It has to be light** - Easy to carry to classes.
+* **It must be fast and powerful** - Runs everything nice and smooth.
+* **Looks good and feels great** - No one wants an ugly computer.
+* **Has a long battery life** - Charge only once and use the whole day.
+* **Has a good screen** - Obviously.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Acer Aspire 5 has **all** of this *and* a few more extras that make it worth every. single. penny. 
 
-* **To bold text**, use `<strong>`.
-* *To italicize text*, use `<em>`.
-* Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-* Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-* <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-* Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+# Design
 
-Most of these elements are styled by browsers with few modifications on our part.
+![](/assets/img/uploads/Aspire 5_A515-54_hero_large.jpg)
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+dfdfdfghgh
 
 ## Code
 
