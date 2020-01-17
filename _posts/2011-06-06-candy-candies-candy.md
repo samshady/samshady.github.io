@@ -45,7 +45,7 @@ Let's talk some numbers.
 * **Screen Size - 15.6 inches.** Meaning? It's a big boy. The screen is wide and crisp. This display is Full HD and IPS which guarantees you'll have fun when watching movies or working. No complaints.
 * **Speakers -** They perform well. They're on the bottom of the laptop and get relatively loud. In my experience, for watching the average youtube video or voice calls, I had no problems hearing anything.
 
-
+![](/assets/img/uploads/keyboard.png)
 
 ## Code
 
