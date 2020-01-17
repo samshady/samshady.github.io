@@ -6,8 +6,8 @@ subtitle: 'Cheap, Fast and Beautiful. The only budget laptop you need as a stude
 description: >-
   The Best Budget Laptop for Students in 2020 under 400$: Acer Aspire 5 with a
   beautiful screen and powerful specs.
-image: /assets/img/uploads/best_budget_laptop_acer.png
-optimized_image: /assets/img/uploads/best_budget_small.png
+image: /assets/img/uploads/big banner.png
+optimized_image: /assets/img/uploads/big banner_thumb.png
 category: diet
 tags:
   - food
