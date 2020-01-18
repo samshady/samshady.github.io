@@ -2,7 +2,7 @@
 date: '2020-01-17 14:02:40'
 layout: post
 title: 'Best Budget Laptop For Students: Acer Aspire 5'
-subtitle: 'The only laptop you need as a student.'
+subtitle: The only laptop you need as a student.
 description: >-
   The Best Budget Laptop for Students in 2020 under 350$: Acer Aspire 5 with a
   beautiful screen and powerful, easy to upgrade specs.
@@ -18,7 +18,7 @@ tags:
 author: Sam Rana
 paginate: false
 ---
-If there's one thing you need to save in college, it's money. Let's be real for a second, the biggest priority for you when you're living in a student apartment and paying for fees, food and books, is to save wherever you can and still have the best experience you can get. If you're like me and you don't like to compromise, for only 300$, you can't go wrong with the Acer Aspire 5. Trust me.
+If there's one thing you need to save in college, it's money. Let's be real for a second, the biggest priority for you when you're living in a student apartment and paying for fees, food and books, is to save wherever you can and still have the best experience you can get. If you're like me and you don't like to compromise, for only 300$, you can't go wrong with the [Acer Aspire 5](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B07RF1XD36?tag=yesnobuybuy-20). Trust me.
 
 ## What Do You Need In a Laptop Anyway?
 
@@ -67,11 +67,11 @@ But seriously, companies and reviewers love to throw out complicated names and n
 
   * To be noted is that this laptop also comes in more variants with higher specs like a better processor etc. But the price also goes up accordingly. We don't need that. 
 * **The battery life is great.** Usually, the thinner the laptop, the smaller the battery. That's not true for the Aspire. It has a big 4200 mAh battery that lasts almost **7 hours** on a single charge. That is just enough for one whole day of work or class. If you're going to be using it to do intensive tasks like playing games or watching videos with the brightness high, bring your charger along. It's small and cute and doesn't weigh that much. Don't be lazy. 
-* Nothing else. That's all the specs we need to talk about. If you're curious though, go check it out on Acer's website.
+* Nothing else. That's all the specs we need to talk about. If you're curious though, check it out on Acer's website.
 
 # Price and Verdict
 
-This where it gets good. This model of the Aspire 5 is listed for usually around **320$** on Amazon. Regular sale price is around an amazing **265$.** Even if it's not available in your country's Amazon or it's too expensive and you need to ship it from the US website, its only around 60$ for the shipping and import fee, which still keeps it well under 400$. 
+This where it gets good. This model of the Aspire 5 is listed for usually around **320$** on Amazon. Regular sale price is around an amazing **265$.** Even if it's not available in your country's Amazon or if it's too expensive there, you can ship it from the US website for only around 60$ for the shipping and import fee and still get it for well under 400$. No brainer. 
 
 **This is hands down the best deal you can find for a new budget laptop in the market right now**. If value for your money is what is important to you then don't bother with Chromebooks or anything fancy and expensive. The Acer Aspire 5 with its easy to upgrade specs, premium looks and quality and all round solid performance is a big win for Acer and should absolutely be your choice for a budget laptop.
 
