@@ -463,3 +463,25 @@
             float right
             +below(cut)
                 display none
+.button
+            display inline-block
+            font-size rem(18px)
+            font-weight bold
+            color #fff
+            text-decoration none
+            background-color rgba(0,0,0,.6)
+            border-radius rem(5px)
+            padding rem(10px) rem(15px)
+            transition all .3s
+            +above(cut)
+                font-size rem(18px)
+            &:hover
+                background-color rgba(255,255,255,.5)
+                box-shadow 2px 2px 3px 0px rgba(0,0,0,0.2)
+            img
+                width rem(25px)
+                height rem(25px)
+                margin-right rem(10px)
+                vertical-align middle
+            span
+                vertical-align middle
