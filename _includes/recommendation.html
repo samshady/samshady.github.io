@@ -4,17 +4,13 @@
         <div>
             <button>
                 <svg><use xlink:href="#icon-arrow-right"></use></svg>
-                <span>Take me back to the top</span>
+                <span>Back to the top</span>
             </button>
         </div>
     </div>
-    {% if page.next %}
-        {% assign recommendation = page.next %}
-    {% else %}
         {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
         {% assign shuffled_array = next_posts | shuffle %}
         {% assign recommendation = shuffled_array.first %}
-    {% endif %}
     <a href="{{ recommendation.url | prepend: site.baseurl }}" class="post-preview">
         <div class="image">
             {% if recommendation.optimized_image %}
@@ -29,7 +25,7 @@
     </a>
         {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
         {% assign shuffled_array = next_posts | shuffle %}
-        {% assign recommendation = shuffled_array.first %}
+        {% assign recommendation = shuffled_array.last %}
 	<a href="{{ recommendation.url | prepend: site.baseurl }}" class="post-preview">
         <div class="image">
             {% if recommendation.optimized_image %}
