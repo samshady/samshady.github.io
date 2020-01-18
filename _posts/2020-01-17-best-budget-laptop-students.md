@@ -18,7 +18,7 @@ tags:
 author: Sam Rana
 paginate: false
 ---
-If there's one thing you need to save in college, it's money. Let's be real for a second, the biggest priority for you when you're living in a student apartment and paying for fees, food and books, is to save wherever you can and still have the best experience you can get. If you're like me and you don't like to compromise, for only 300$, you can't go wrong with the [Acer Aspire 5](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B07RF1XD36?tag=yesnobuybuy-20).
+If there's one thing you need to save in college, it's money. Let's be real for a second, the biggest priority for you when you're living in a student apartment and paying for fees, food and books, is to save wherever you can and still have the best experience you can get. If you're like me and you don't like to compromise, for only 300$, you can't go wrong with the [Acer Aspire 5](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B07RF1XD36?tag=yesnobuybuy-20)
 
 ## What Do You Need In a Laptop Anyway?
 
