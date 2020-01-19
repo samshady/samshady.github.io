@@ -2,7 +2,7 @@
 date: '2020-01-18 14:52:05'
 layout: post
 title: How to Make a Blog and earn 1000$ per month
-subtitle: The only guide you need to get started with earning money online.
+subtitle: The only guide you need to get started with making money online.
 description: how to make a website
 category: budget
 tags:
