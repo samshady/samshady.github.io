@@ -2,10 +2,10 @@
 date: '2020-01-17 14:02:40'
 layout: post
 title: 'Best Budget Laptop For Students: Acer Aspire 5'
-subtitle: The only laptop you need as a student.
+subtitle: The only laptop you need for school.
 description: >-
-  The Best Budget Laptop for Students in 2020 under 350$: Acer Aspire 5 with a
-  beautiful screen and powerful, easy to upgrade specs.
+  The Best Budget Laptop for Students in 2020 under 400$: Acer Aspire. A true
+  all-rounder.
 image: >-
   https://res.cloudinary.com/samshady/image/upload/v1579297780/big_banner_vvernt.png
 optimized_image: >-
@@ -18,7 +18,7 @@ tags:
 author: Sam Rana
 paginate: false
 ---
-If there's one thing you need to save in college, it's money. Let's be real for a second, the biggest priority for you when you're living in a student apartment and paying for fees, food and books, is to save wherever you can and still have the best experience you can get. If you're like me and you don't like to compromise, for only 300$, you can't go wrong with the Acer Aspire 5. Trust me.
+If there's one thing you need to save in college, it's money. Let's be real for a second, the biggest priority for you when you're living in a student apartment and paying for fees, food and books, is to save wherever you can and still have the best experience you can get. If you're like me and you don't like to compromise, for only 300$, you can't go wrong with the Acer Aspire 5.
 
 ## What Do You Need In a Laptop Anyway?
 
@@ -27,22 +27,22 @@ It's simple.
 * **It has to be light** - Easy to carry to classes.
 * **It must be fast and powerful** - Runs everything nice and smooth.
 * **Looks good and feels great** - No one wants an ugly computer.
-* **Has a long battery life** - Charge only once and use the whole day.
+* **Has a long battery life** - Charge it once and go the whole the day.
 * **Has a good screen** - Obviously.
 
-Acer Aspire 5 has **all** of this *and* a few more extras that make it worth every. single. penny. 
+The Aspire 5 has **all** of this *and* a few more extras that make it worth every. single. penny. 
 
 # Design
 
 ![Photo of the Acer Aspire 5 from the front and side views](/assets/img/uploads/photo.png "Front and Side view")
 
-I was honestly surprised by how good this laptop looks. After using it for a few weeks, I really appreciated the minimal, sleek approach Acer took with this laptop. There's nothing fancy here, no gimmicks and no let downs. You get exactly what you need and that's a sentence I can just use for every section of this review. 
+I was surprised by how good this laptop looks. After using it for a few weeks, I came to appreciate the minimal, sleek approach Acer went for with this laptop. There's nothing fancy here - no gimmicks and no let downs. You get exactly what you need and nothing more.
 
 Let's talk some numbers.
 
 * **Weight - 1.8 Kilograms**. Meaning? It's Light and Thin. You can pick it up with just one hand or rest it on your lap and not feel uncomfortable.
 * **Screen Size - 15.6 inches.** Meaning? It's a big boy. The screen is wide, crisp and bright. This display is **Full HD** and **IPS** which guarantees you'll have fun when watching movies or working. No complaints.
-* **Speakers -** They perform well. They're on the bottom of the laptop and get relatively loud. In my experience, for watching the average Youtube video or voice calls, I had no problems hearing anything.
+* **Speakers -** They perform well. They're on the bottom of the laptop and get relatively loud. In my experience, for watching the average Youtube video or video calls, I had no problems hearing anything.
 
 ![Aspire's full sized keyboard and touchpad and side view.](/assets/img/uploads/keyboard.png "Touchpad and keyboard")
 
@@ -51,27 +51,27 @@ Let's talk some numbers.
 
 # Specs
 
-Ah the specs. Everybody loves specs. Gotta have all the right specs. Specs for days. Specs.
+Ah the specs. Everybody loves to talk specs. Gotta have all the right specs. Specs for days. Specs.
 
-But seriously, companies and reviewers love to throw out complicated names and numbers and expect the average consumer to understand what it all means. **They don't**. Not because they're stupid, no. Oh no no. They just don't have the time or the need. All they want is a computer that can do everything they need it to do. 
+Companies and reviewers usually love to throw out complicated names and numbers and expect the average consumer to understand what it all means. **They don't**. Not because they're stupid, no. Oh no no. They just don't have the time or the need. All they want is a computer that can do everything they need it to do. 
 
 **The Aspire does everything you need it to do.** It'll make you happy with how fast and reliable it is. 
 
 * Do you want to have 20 tabs in Chrome open all the time? No problem. The **4 GB RAM** will take care of that.
 
-  * What if I want like, 40 tabs? First of all, why. Second, No problem. Acer thought of that and left empty space for you inside the laptop to add more RAM. **You can make the 4 GB RAM into 32 GB** and have like 100 tabs open. #YOLO
-* Do you want your videos and photos and PDFs to load instantly? No problem. The **128 GB SSD** inside makes all your installed programs, your stored files and also Windows to open blazing fast.
+  * What if I want like, 40 tabs? Again, no problem. Acer thought of that and left empty space for you inside the laptop to add more RAM. **You can make the 4 GB RAM into 32 GB** and have a 100 tabs open if you want. #YOLO
+* Do you want videos and photos and PDFs to load instantly? No problem. The **128 GB SSD** inside makes all your installed programs and stored files and also Windows to open up lightning fast.
 
-  * What if I have like, more than 128 GB of files. No problem. Acer thought of that too and left some empty space to add another SSD and expand your storage capacity. I added an additional 250 GB SSD to this laptop in under 15 minutes. It's that easy. If you want a detailed guide, leave a comment below!
-* Do you want to play some games or edit and stream HD videos? No problem. The latest **AMD Ryzen 3 processor** inside comes with integrated **Radeon Vega 3 graphics** and it will do that job for you quietly without complaining or asking you for a massage. If it does, then report it to the FBI immediately. 
+  * What if I have like, more than a 128 GB of files. No problem. Acer thought of that too and left some empty space for you to **add an extra SSD and expand your storage capacity**. I added an additional 250 GB SSD to this laptop in under 15 minutes. It's that easy. If you want a detailed guide, leave a comment below!
+* Do you want to play some games or edit and stream HD videos or do you just work a lot and don't like lags and delays? No problem. The latest **AMD Ryzen 3 processor** inside comes with integrated **Radeon Vega 3 graphics** and it will do that job for you quietly without complaining or asking you for a massage. If it does, then call a priest immediately.
 
-  * To be noted is that this laptop also comes in more variants with higher specs like a better processor etc. But the price also goes up accordingly. We don't need that. 
+  * To be noted is that the Aspire 5 also comes in more models with higher specs like a better processor, more storage, a fingerprint sensor etc. But the price also goes up accordingly and it starts to lose that value for money factor. **We only recommend the model we reviewed here for students**.
 * **The battery life is great.** Usually, the thinner the laptop, the smaller the battery. That's not true for the Aspire. It has a big 4200 mAh battery that lasts almost **7 hours** on a single charge. That is just enough for one whole day of work or class. If you're going to be using it to do intensive tasks like playing games or watching videos with the brightness high, bring your charger along. It's small and cute and doesn't weigh that much. Don't be lazy. 
-* Nothing else. That's all the specs we need to talk about. If you're curious though, check it out on Acer's website.
+* That's all the specs we need to talk about. If you're curious though, check it out on Acer's website by clicking [here](https://www.acer.com/ac/en/US/content/model/NX.HG8AA.001).
 
 # Price and Verdict
 
-This where it gets good. This model of the Aspire 5 is listed for usually around **320$** on Amazon. Regular sale price is around an amazing **265$.** Even if it's not available in your country's Amazon or if it's too expensive there, you can ship it from the US website for only around 60$ for the shipping and import fee and still get it for well under 400$. No brainer. 
+This where it gets good. This model of the Aspire 5 (A515-43-R19L) is listed for usually around **320$** on Amazon. Regular sale price is around an amazing **265$.** If it's not available in your country's Amazon or if it's too expensive there, you can ship it from the US website for only around 60$ and still get it for under 400$.  
 
 **This is hands down the best deal you can find for a new budget laptop in the market right now**. If value for your money is what is important to you then don't bother with Chromebooks or anything fancy and expensive. The Acer Aspire 5 with its easy to upgrade specs, premium looks and quality and all round solid performance is a big win for Acer and should absolutely be your choice for a budget laptop.
 
