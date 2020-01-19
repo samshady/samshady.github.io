@@ -67,7 +67,7 @@ Companies and reviewers usually love to throw out complicated names and numbers 
 
   * To be noted is that the Aspire 5 also comes in more models with higher specs like a better processor, more storage, a fingerprint sensor etc. But the price also goes up accordingly and it starts to lose that value for money factor. **We only recommend the model we reviewed here for students**.
 * **The battery life is great.** Usually, the thinner the laptop, the smaller the battery. That's not true for the Aspire. It has a big 4200 mAh battery that lasts almost **7 hours** on a single charge. That is just enough for one whole day of work or class. If you're going to be using it to do intensive tasks like playing games or watching videos with the brightness high, bring your charger along. It's small and cute and doesn't weigh that much. Don't be lazy. 
-* That's all the specs we need to talk about. If you're curious though, check it out on Acer's website by clicking [here](https://www.acer.com/ac/en/US/content/model/NX.HG8AA.001).
+* That's all the specs we need to talk about. If you're curious though, check it out on Acer's website by clicking [here](https://www.acer.com/ac/en/US/content/model/NX.HG8AA.001)
 
 # Price and Verdict
 
