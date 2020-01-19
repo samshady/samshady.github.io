@@ -1,7 +1,7 @@
 ---
 date: '2020-01-18 14:52:05'
 layout: post
-title: 'How to: Make a Blog in 10 minutes and earn 1000$ per month'
+title: How to Make a Blog and earn 1000$ per month
 subtitle: The only guide you need to get started with earning money online.
 description: how to make a website
 category: budget
@@ -10,16 +10,16 @@ tags:
 author: Sam Rana
 paginate: false
 ---
-If you've ever asked yourself "Hey, I wonder if I can actually make money from the internet" before and not found an answer, don't worry, we're going to answer that today (spoiler: It's yes, you can). Millions of people do every year.
+Have you ever asked yourself "Hey, I wonder if I can actually make money on the internet"  I bet you have. It's easy, the answer is yes.  **Yes you can earn money on the internet**. But how?
 
-Yes, the internet is a very big place and there's a lot of stuff happening in it all the time. With more and more people getting access to it around the world, there is an ever-growing demand for services and entertainment. Those that were early to the game have already made a ton of money from the lower competition around a few years ago. 
+The internet is a very big place and there's a lot going on, all the time. With almost 5 billion people online, **there's a high demand for content.** People want things to read, watch and listen.  And that is an opportunity for you to make money. 
 
-But the increasing demand also means that you can get in at any time and take a bite of that giant internet economy cookie. Yes, it's possible, don't let anyone tell you otherwise. 
+**Starting a blog in 2020 is easy.** 
 
-# How much can I make?
+You don't need any programming experience, or to spend a lot of money. You can create a beautiful website in less than 2 hours. 
 
+# How much can you earn?
 
+Successful bloggers earn a lot of money. They work on their own schedules and don't even need to leave the house. 
 
 # What you need to get started
-
-#
