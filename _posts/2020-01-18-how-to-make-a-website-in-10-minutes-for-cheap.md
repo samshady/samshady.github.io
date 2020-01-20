@@ -65,15 +65,17 @@ You need two things to put your blog on the internet where everyone can see it. 
 
 **Domain name and hosting go together**. You need **both** for a website.  
 
-**\*\*This is the only place where you should spend money on your website. There is no need for any extra expenses as a beginner.\*\***
+**\*\***This is the only place where you should spend money on your website. There is no need for any extra expenses as a beginner**.\*\***
 
-**Bluehost** is the #1 recommended place to get your domain and hosting. It's the biggest name in the game and they host over 2 million websites. Both the millionaires in our list above - Pat Flynn and Neil Patel recommend Bluehost. 
+**[Bluehost](https://www.bluehost.com/track/yesnobuybuy/)** is the #1 recommended place to get your domain and hosting. It's the biggest name in the game and they host over 2 million websites. 
+
+Both the millionaires in our list above - Pat Flynn and Neil Patel recommend [Bluehost](https://www.bluehost.com/track/yesnobuybuy/). 
 
 Usually a domain name costs around 10$ per year and the hosting can be 10$ per month.
 
-Bluehost's plans start at 3$ per month and, get this, **they give you the domain name for free for the first year** if you get hosting with them. 
+Bluehost's plans start at [3$](https://www.bluehost.com/track/yesnobuybuy/) per month AND **they give you the domain name for free for the first year** if you get hosting with them. 
 
-They also give you free money, almost 175$ to spend on Google and Bing ads. **This is a very good deal**. 
+**They also give you free money**, almost 175$ to spend on Google and Bing ads. **This is a very good deal**. 
 
 ## Pick a name
 
@@ -95,10 +97,12 @@ Some tips:
 
 So, if you've made it this far, take a break, stretch your shoulders and let's get started with the actual website building. Remember, this tutorial assumes you're using Bluehost. 
 
-**If you get stuck at any point, come back here and read  carefully. Leave a comment below if you can't figure anything out.** We're going to do this together.
+**If you get stuck at any point, come back here and read carefully. Leave a comment below if you still can't figure something out.** We're going to do this together!
 
 Cool? Okay, time to disco.
 
 **STEP 1:**
 
-Head over to Bluehost
+[Go to Bluehost](https://www.bluehost.com/track/yesnobuybuy/). Click the big green Get Started button. 
+
+![]()
