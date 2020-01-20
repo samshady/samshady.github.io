@@ -56,32 +56,49 @@ Doing this will prevent you from running out of ideas for your blog. It's import
 
 Done? Next step.
 
-### Pick a name
-
-What do you want to call your blog? 
-
-*When you're thinking about this, you're already making the first creative decision for your blog. Congratulations.* 
-
-The name can be anything you like, it can be a pun, or maybe a made up word, remember, **anything can become famous**. Apple, Google, Microsoft - These names sound familiar now, but nobody knew them once long ago.
-
-**Remember:** Don't **overthink** this step.
-
-You just want to get started so think for a name and move on. 
-
-Done? Let's get cracking.
-
 # Making the blog
-
-### Put it on the internet
 
 You need two things to put your blog on the internet where everyone can see it. What are they?
 
 1. **Domain name** - this is the name of your website. Like this website is yesnobuybuy.com.
-
 2. **Hosting** - The thing that will put your website on the internet. 
 
-**Domain name and hosting go togther**. You need both for a website. 
+**Domain name and hosting go together**. You need **both** for a website.  
 
-Domain names usually cost 10$ per year while hosting can be anywhere between 3 to 1000$. 
+**\*\*This is the only place where you should spend money on your website. There is no need for any extra expenses as a beginner.\*\***
 
-As a beginner, you need
+**Bluehost** is the #1 recommended place to get your domain and hosting. It's the biggest name in the game and they host over 2 million websites. Both the millionaires in our list above - Pat Flynn and Neil Patel recommend Bluehost. 
+
+Usually a domain name costs around 10$ per year and the hosting can be 10$ per month.
+
+Bluehost's plans start at 3$ per month and, get this, **they give you the domain name for free for the first year** if you get hosting with them. 
+
+They also give you free money, almost 175$ to spend on Google and Bing ads. **This is a very good deal**. 
+
+## Pick a name
+
+What do you want to call your blog?
+
+*When you're thinking about this, you're already making the first creative decision for your blog. Congratulations.*
+
+The name can be anything you like, it can be a pun, or maybe a made-up word, remember, **anything can become famous**. Apple, Google, Microsoft - These names sound familiar now, but nobody knew them once long ago.
+
+**Remember:** Do **NOT** overthink this step.
+
+Some tips:
+
+* Choose .com for your website name. It's very easy to understand.
+* If you want it to be a personal blog, name it after yourself: first name + last name + .com or use a nickname if your name is already taken. 
+* Most common names will already be taken by someone else. This is usual. So get creative and make it something unique and catchy.
+* Use 2-3 words at most. No hyphens or numbers if you can help it. No one will remember CuteKittySocksMan-Thanksbro27918.com
+* Pick a name and move on. The most important thing is to get started. 
+
+So, if you've made it this far, take a break, stretch your shoulders and let's get started with the actual website building. Remember, this tutorial assumes you're using Bluehost. 
+
+**If you get stuck at any point, come back here and read  carefully. Leave a comment below if you can't figure anything out.** We're going to do this together.
+
+Cool? Okay, time to disco.
+
+**STEP 1:**
+
+Head over to Bluehost
