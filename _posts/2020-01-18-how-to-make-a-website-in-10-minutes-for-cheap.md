@@ -10,8 +10,6 @@ tags:
 author: Sam Rana
 paginate: false
 ---
-
-
 Have you ever asked yourself *"Hey, I wonder if I can actually make money on the internet"*?  
 
 I bet you have. It's easy, the answer is yes.  **Yes you can earn money on the internet**. But how?
@@ -46,7 +44,7 @@ All that said, let's get to the next step.
 
 # Before you start
 
-### Think of a topic
+## Think of a topic
 
 **What do you want to write about?** It can be about anything.  Travel, school, technology, K-pop, you name it.
 
@@ -57,6 +55,30 @@ Are you interested in a topic and are you willing to learn more later as you con
 Doing this will prevent you from running out of ideas for your blog. It's important so please, sit down and think for a minute.
 
 Done? Next step.
+
+## Pick a name
+
+What do you want to call your blog?
+
+*When you're thinking about this, you're already making the first creative decision for your blog. Congratulations.*
+
+The name can be anything you like, it can be a pun, or maybe a made-up word, remember,**anything can become famous**. Apple, Google, Microsoft - These names sound familiar now, but nobody knew them once long ago.
+
+**Remember:** Do **NOT** overthink this step.
+
+Some tips:
+
+* Choose .com for your website name. It's very easy to understand.
+* If you want it to be a personal blog, name it after yourself: first name + last name + .com or use a nickname if your name is already taken.
+* Most common names will already be taken by someone else. This is usual. So get creative and make it something unique and catchy.
+* Use 2-3 words at most. No hyphens or numbers if you can help it. No one will remember CuteKittySocksMan-Thanksbro27918.com
+* Pick a name and move on. The most important thing is to get started.
+
+So, if you've made it this far, take a break, stretch your shoulders and let's get started with the actual website building. 
+
+**If you get stuck at any point, come back here and read again carefully. Leave a comment below if you still can't figure something out.** We're going to do this together!
+
+Cool? Okay, time to disco.
 
 # Making the blog
 
@@ -79,31 +101,7 @@ Bluehost's plans start at [3$](https://www.bluehost.com/track/yesnobuybuy/) per 
 
 **They also give you free money**, almost 175$ to spend on Google and Bing ads. **This is a very good deal**. 
 
-## Pick a name
-
-What do you want to call your blog?
-
-*When you're thinking about this, you're already making the first creative decision for your blog. Congratulations.*
-
-The name can be anything you like, it can be a pun, or maybe a made-up word, remember, **anything can become famous**. Apple, Google, Microsoft - These names sound familiar now, but nobody knew them once long ago.
-
-**Remember:** Do **NOT** overthink this step.
-
-Some tips:
-
-* Choose .com for your website name. It's very easy to understand.
-* If you want it to be a personal blog, name it after yourself: first name + last name + .com or use a nickname if your name is already taken. 
-* Most common names will already be taken by someone else. This is usual. So get creative and make it something unique and catchy.
-* Use 2-3 words at most. No hyphens or numbers if you can help it. No one will remember CuteKittySocksMan-Thanksbro27918.com
-* Pick a name and move on. The most important thing is to get started. 
-
-So, if you've made it this far, take a break, stretch your shoulders and let's get started with the actual website building. Remember, this tutorial assumes you're using Bluehost. 
-
-**If you get stuck at any point, come back here and read carefully. Leave a comment below if you still can't figure something out.** We're going to do this together!
-
-Cool? Okay, time to disco.
-
-**STEP 1:**
+## **STEP 1: Register website's Name and get Hosting**
 
 [Go to Bluehost](https://www.bluehost.com/track/yesnobuybuy/). **Click the big green "Get Started" button.** 
 
@@ -129,4 +127,4 @@ After you've filled out your personal details, scroll down to the next section. 
 
 Put your payment information carefully in and make sure to **check the two boxes on the bottom**.
 
-![Payment confirmation and Terms and Conditions Bluehost](/assets/img/uploads/payment confirmation (1).png "Confirming Bluehost's Terms and Policies")
+![Payment confirmation and Terms and Conditions Bluehost](/assets/img/uploads/payment confirmation.png "Confirming Bluehost's Terms and Policies")
