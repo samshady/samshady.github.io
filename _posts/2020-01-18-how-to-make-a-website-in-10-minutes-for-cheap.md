@@ -27,8 +27,13 @@ You don't need any programming experience, or to spend a lot of money. **In unde
 Successful bloggers earn a lot of money. 
 
 * [Pat Flynn](https://www.smartpassiveincome.com/) earns millions every year from his blog Smart Passive Income.  
+
+![Smart Passive Income Blog Income Report](/assets/img/uploads/SPI income.png "Pat Flynn's Blog makes a ton of money")
+
 * [Thomas Frank](https://collegeinfogeek.com/) started Collegeinfogeek in college and paid off all his loans in a few months.
 * [Neil Patel](https://neilpatel.com/blog/) got honored by President Obama and the UN and earns millions every year. 
+
+![](/assets/img/uploads/neil patel income.png)
 
 It's easy to look at these people and think you'll never get to their level. But that is the wrong way of approaching blogging. **Do not think like that.**
 
@@ -54,6 +59,10 @@ Are you interested in a topic and are you willing to learn more later as you con
 
 Doing this will prevent you from running out of ideas for your blog. It's important so please, sit down and think for a minute.
 
+Need help? Here's some popular categories. 
+
+![](/assets/img/uploads/popularblogcategories (1).png)
+
 Done? Next step.
 
 ## Pick a name
@@ -76,7 +85,7 @@ Some tips:
 
 So, if you've made it this far, take a break, stretch your shoulders and let's get started with the actual website building. 
 
-**If you get stuck at any point, come back here and read again carefully. Leave a comment below if you still can't figure something out.** We're going to do this together!
+**If you get stuck at any point during the process, come back here and read again carefully. Leave a comment below if you still can't figure something out.** We're going to do this together!
 
 Cool? Okay, time to disco.
 
@@ -128,3 +137,19 @@ After you've filled out your personal details, scroll down to the next section. 
 Put your payment information carefully in and make sure to **check the two boxes on the bottom**.
 
 ![Payment confirmation and Terms and Conditions Bluehost](/assets/img/uploads/payment confirmation.png "Confirming Bluehost's Terms and Policies")
+
+Now **click the big green "Submit" button** and wait for the payment to go through. If all goes right, you should see this screen next.
+
+![Successful payment processing Bluehost](/assets/img/uploads/congrats.png "Payment Successful")
+
+**Check your email for an email from Bluehost. It has all the information you need.**
+
+# **Setting up the blog**
+
+## Installing Wordpress
+
+Now that we have a brand new website on the internet, it's time to go behind the scenes and start making some stuff.
+
+This part is exciting. It's where you will have the most fun.
+
+To write new articles and put them on your blog, we will use **Wordpress**. This is a **free** website builder that is the #1 tool used by bloggers to add content to their websites.
