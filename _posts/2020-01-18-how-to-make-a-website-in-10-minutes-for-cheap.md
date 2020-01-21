@@ -10,6 +10,8 @@ tags:
 author: Sam Rana
 paginate: false
 ---
+
+
 Have you ever asked yourself *"Hey, I wonder if I can actually make money on the internet"*?  
 
 I bet you have. It's easy, the answer is yes.  **Yes you can earn money on the internet**. But how?
@@ -103,6 +105,28 @@ Cool? Okay, time to disco.
 
 **STEP 1:**
 
-[Go to Bluehost](https://www.bluehost.com/track/yesnobuybuy/). Click the big green Get Started button. 
+[Go to Bluehost](https://www.bluehost.com/track/yesnobuybuy/). **Click the big green "Get Started" button.** 
 
-![]()
+![Clicking the Get Started button on Bluehost homepage](/assets/img/uploads/get started.png "Get Started")
+
+Now let's **choose the "Basic" hosting plan**. This is all we need to start our blog. If your blog becomes very successful, it's easy to upgrade to a better plan and get the extra features. But for now, click on "Select"
+
+![Choosing the Basic hosting plan](/assets/img/uploads/select basic plan.png "Choose the Basic Hosting plan.")
+
+Now we get to this screen. **Enter the name of your new blog and click next**. 
+
+![Creating a new domain in bluehost](/assets/img/uploads/new domain.png "Type in your new blog's name")
+
+If the name you want is available, you'll be taken to this next page below. If not, make some changes. Try a new name until you see this.
+
+![Domain name is available screen in Bluehost](/assets/img/uploads/domain name is available.png "Domain name is available confirmation")
+
+After you've filled out your personal details, scroll down to the next section. Select your Account Plan and then **uncheck all boxes in the "Package Extras" section.** 
+
+**Tip**: The first extra option - Domain Privacy + Protection hides your personal information from anyone who wants to see who your website belongs to. This is useful because sometimes spammers like to find new registrations and send the owners spam emails. **You can also skip this option and add it later.**
+
+![Choosing Account Plan and Package Extras in Bluehost](/assets/img/uploads/extra options.png "Choosing Account plan and Package Extras")
+
+Put your payment information carefully in and make sure to **check the two boxes on the bottom**.
+
+![Payment confirmation and Terms and Conditions Bluehost](/assets/img/uploads/payment confirmation (1).png "Confirming Bluehost's Terms and Policies")
