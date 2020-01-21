@@ -128,13 +128,13 @@ If the name you want is available, you'll be taken to this next page below. If n
 
 ![Domain name is available screen in Bluehost](/assets/img/uploads/domain name is available.png "Domain name is available confirmation")
 
-After you've filled out your personal details, scroll down to the next section. Select your Account Plan and then **uncheck all boxes in the "Package Extras" section.** 
+After you've filled out your personal details, select your Account Plan and  **uncheck all boxes in the "Package Extras" section.** 
 
-**Tip**: The first extra option - Domain Privacy + Protection hides your personal information from anyone who wants to see who your website belongs to. This is useful because sometimes spammers like to find new registrations and send the owners spam emails. **You can also skip this option and add it later.**
+**Tip**: The first extra option - Domain Privacy + Protection hides your personal information from anyone who wants to see who your website belongs to. This is useful because sometimes spammers like to find new registrations and send you spam emails. **You can also skip this now and add it later.**
 
 ![Choosing Account Plan and Package Extras in Bluehost](/assets/img/uploads/extra options.png "Choosing Account plan and Package Extras")
 
-Put your payment information carefully in and make sure to **check the two boxes on the bottom**.
+Put your payment information in carefully and make sure to **check the two boxes on the bottom**.
 
 ![Payment confirmation and Terms and Conditions Bluehost](/assets/img/uploads/payment confirmation.png "Confirming Bluehost's Terms and Policies")
 
@@ -142,14 +142,38 @@ Now **click the big green "Submit" button** and wait for the payment to go throu
 
 ![Successful payment processing Bluehost](/assets/img/uploads/congrats.png "Payment Successful")
 
-**Check your email for an email from Bluehost. It has all the information you need.**
+Now **create your password** and log in to your account.
+
+Also, **check your email**. Bluehost sends you an email to verify your domain name. It takes 10 seconds.
 
 # **Setting up the blog**
 
-## Installing Wordpress
-
 Now that we have a brand new website on the internet, it's time to go behind the scenes and start making some stuff.
 
-This part is exciting. It's where you will have the most fun.
+To write things and put them on your blog, we will use **Wordpress**. This is a **free** website builder that is the #1 tool used by bloggers to add content to their websites.
 
-To write new articles and put them on your blog, we will use **Wordpress**. This is a **free** website builder that is the #1 tool used by bloggers to add content to their websites.
+**Bluehost automatically installs it for you**. Thanks Bluehost. 
+
+After logging in, you see this. **Select any theme** for now. We can change this later.
+
+![Choose a theme screen in Bluehost](/assets/img/uploads/choosing a theme.png "Choosing a theme during Wordpress Installation")
+
+Done? Now Wordpress is automatically installed. Like so.
+
+![Bluehost automatic installation of Wordpress](/assets/img/uploads/Setting Up wordpress.png "Wordpress is auto installed by Bluehost")
+
+**If you don't see this screen or if it gets stuck and keeps loading, don't panic!** 
+
+Sign in to your account on Bluehost again and **Click on Marketplace** on the left then **Add Website.**
+
+![Adding a website in Marketplace in Bluehost](/assets/img/uploads/adding a new website.png "Adding a Website Manually.")
+
+**Enter the name for your site and a cool Tagline.**
+
+![Adding Site Name and Tagline during manual website addition in Bluehost Marketplace](/assets/img/uploads/manual website creation.png "Adding a Site Name and Tagline")
+
+**Choose the new domain name you registered.** ("nameofyourblog.com") and **click the blue box "Next"**
+
+![Assign Domain to new manually added website in Bluehost](/assets/img/uploads/choose domain.png "Adding the domain name")
+
+All set up!
