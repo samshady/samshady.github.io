@@ -1,7 +1,7 @@
 ---
 date: '2020-01-18 14:52:05'
 layout: post
-title: How to Make a Blog and earn 1000$ per month in 2020
+title: How to Make a Blog that earns 1000$ per month in 2020
 subtitle: The only guide you need to get started with making money online.
 description: how to make a website
 category: budget
@@ -43,9 +43,9 @@ It can be a bit overwhelming and confusing. In simple words,
 
 **You need to make content that will attract people to your website. This is the golden rule.**
 
-If you think you can write about something, anything, you can be a blogger and earn money for it. 1000$ is easy. 
+If you think you can write about something, anything, you can be a blogger and earn money for it. 1000$ per month is relatively easy for a blog if you use the right tools and produce good content. 
 
-All that said, let's get to the next step.
+All that said, let's get to the first step to getting there.
 
 # Before you start
 
@@ -57,13 +57,13 @@ It's a LOT easier if you choose something you already know a little about.
 
 Are you interested in a topic and are you willing to learn more later as you continue your blog? Good. Choose that.
 
-Doing this will prevent you from running out of ideas for your blog. It's important so please, sit down and think for a minute.
+Doing this will prevent you from running out of ideas for your blog. This step is very important and will probably take you the most time. 
 
-Need help? Here's some popular categories. 
+So please, sit down and think for a minute. Need help? Here's some popular categories. 
 
 ![](/assets/img/uploads/popularblogcategories (1).png)
 
-Done? Next step.
+Done? Lets's move on to the next step.
 
 ## Pick a name
 
@@ -71,21 +71,23 @@ What do you want to call your blog?
 
 *When you're thinking about this, you're already making the first creative decision for your blog. Congratulations.*
 
-The name can be anything you like, it can be a pun, or maybe a made-up word, remember,**anything can become famous**. Apple, Google, Microsoft - These names sound familiar now, but nobody knew them once long ago.
+The name can be anything you like, it can be a pun, or maybe a made-up word, remember, **anything can become famous**. Apple, Google, Microsoft - These names sound familiar now, but nobody knew about them before they got big.
 
 **Remember:** Do **NOT** overthink this step.
 
 Some tips:
 
-* Choose .com for your website name. It's very easy to understand.
+* Choose .com for your website's name. It's much easier to grasp than .org, .website etc.
 * If you want it to be a personal blog, name it after yourself: first name + last name + .com or use a nickname if your name is already taken.
-* Most common names will already be taken by someone else. This is usual. So get creative and make it something unique and catchy.
+* Most common names will already be taken by someone else. This is usual. Get creative and make it something unique and catchy. 
 * Use 2-3 words at most. No hyphens or numbers if you can help it. No one will remember CuteKittySocksMan-Thanksbro27918.com
 * Pick a name and move on. The most important thing is to get started.
 
-So, if you've made it this far, take a break, stretch your shoulders and let's get started with the actual website building. 
+If you've made it this far, take a break, relax your shoulders and be proud, the hardest part of starting a new blog is now behind you!
 
-**If you get stuck at any point during the process, come back here and read again carefully. Leave a comment below if you still can't figure something out.** We're going to do this together!
+The next steps are much easier, you'll just be following instructions.
+
+**If you get stuck at any point during the process, come back here and read the steps again carefully. If something is still wrong, please leave me a comment below.** We're going to do this together!
 
 Cool? Okay, time to disco.
 
@@ -104,11 +106,11 @@ You need two things to put your blog on the internet where everyone can see it. 
 
 Both the millionaires in our list above - Pat Flynn and Neil Patel recommend [Bluehost](https://www.bluehost.com/track/yesnobuybuy/). 
 
-Usually a domain name costs around 10$ per year and the hosting can be 10$ per month.
+Usually a new domain name costs around 10$ per year and hosting can start from 10$ per month.
 
 Bluehost's plans start at [3$](https://www.bluehost.com/track/yesnobuybuy/) per month AND **they give you the domain name for free for the first year** if you get hosting with them. 
 
-**They also give you free money**, almost 175$ to spend on Google and Bing ads. **This is a very good deal**. 
+They also give you free credit, almost 175$ to spend on Google and Bing ads. **This is a very good deal**. 
 
 ## **STEP 1: Register website's Name and get Hosting**
 
@@ -120,7 +122,7 @@ Now let's **choose the "Basic" hosting plan**. This is all we need to start our 
 
 ![Choosing the Basic hosting plan](/assets/img/uploads/select basic plan.png "Choose the Basic Hosting plan.")
 
-Now we get to this screen. **Enter the name of your new blog and click next**. 
+Now we get to this screen. **Enter the name of your new blog and click next**. Remember to choose .com.
 
 ![Creating a new domain in bluehost](/assets/img/uploads/new domain.png "Type in your new blog's name")
 
@@ -130,7 +132,7 @@ If the name you want is available, you'll be taken to this next page below. If n
 
 After you've filled out your personal details, select your Account Plan and  **uncheck all boxes in the "Package Extras" section.** 
 
-**Tip**: The first extra option - Domain Privacy + Protection hides your personal information from anyone who wants to see who your website belongs to. This is useful because sometimes spammers like to find new registrations and send you spam emails. **You can also skip this now and add it later.**
+**Tip**: The first extra option: "Domain Privacy + Protection" hides your personal information from others who want to see who your website belongs to. This is useful because sometimes spammers like to find new registrations and may send you spam emails. **You may leave this option checked or you can uncheck it now and add it later if you need it.**
 
 ![Choosing Account Plan and Package Extras in Bluehost](/assets/img/uploads/extra options.png "Choosing Account plan and Package Extras")
 
@@ -144,7 +146,7 @@ Now **click the big green "Submit" button** and wait for the payment to go throu
 
 Now **create your password** and log in to your account.
 
-Also, **check your email**. Bluehost sends you an email to verify your domain name. It takes 10 seconds.
+Also, **check your email**. Bluehost sends you an email to verify your new registration.
 
 # **Setting up the blog**
 
@@ -162,9 +164,11 @@ Done? Now Wordpress is automatically installed. Like so.
 
 ![Bluehost automatic installation of Wordpress](/assets/img/uploads/Setting Up wordpress.png "Wordpress is auto installed by Bluehost")
 
-**If you don't see this screen or if it gets stuck and keeps loading, don't panic!** 
+If your Wordpress installation was successful, skip the steps below and head to the next section.
 
-Sign in to your account on Bluehost again and **Click on Marketplace** on the left then **Add Website.**
+If, however, you DON'T see this screen or if it gets stuck or just keeps loading, **don't panic!**
+
+Open Bluehost in a new browser tab, sign in to your account again and **Click on Marketplace** on the left. Then click on **Add Website.**
 
 ![Adding a website in Marketplace in Bluehost](/assets/img/uploads/adding a new website.png "Adding a Website Manually.")
 
@@ -175,5 +179,3 @@ Sign in to your account on Bluehost again and **Click on Marketplace** on the le
 **Choose the new domain name you registered.** ("nameofyourblog.com") and **click the blue box "Next"**
 
 ![Assign Domain to new manually added website in Bluehost](/assets/img/uploads/choose domain.png "Adding the domain name")
-
-All set up!
