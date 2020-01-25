@@ -10,7 +10,9 @@ tags:
 author: Sam Rana
 paginate: false
 ---
-Have you ever asked yourself *"Hey, I wonder if I can actually make money on the internet"*?  
+Have you ever asked yourself:
+
+> *"Hey, I wonder if I can actually make money on the internet"*?  
 
 I bet you have. It's easy, the answer is yes.  **Yes you can earn money on the internet**. But how?
 
@@ -201,3 +203,24 @@ Click on **My Sites** on the left of your Bluehost main panel, then click **Mana
 Head to **Security** and **Turn On the Free SSL Certificate**.
 
 ![Turning on the Free SSL Certificate by Bluehost](/assets/img/uploads/Free SSL Cert Bluehost.png "Turn On Free SSL")
+
+This will take sometime to activate. After about an hour, go [here](https://www.sslshopper.com/ssl-checker.html) and put in your website's name to check if the SSL certificate is active. Look for a line saying "The certificate was issued by \_\_\_\_\_\_\_\_"
+
+### PLUGINS
+
+We want to add some extra features to make our 
+
+![Logging into Wordpress panel in Bluehost](/assets/img/uploads/log into wordpress.png "Log into Wordpress")
+
+This is what it will look like. It's a lot to take in at once, but you'll get used to it once you start working on your blog.
+
+![Wordpress Dashboard Page](/assets/img/uploads/wordpress home.png "Wordpress Dashboard")
+
+Click on Plugins on the Bottom left. **Search** for the following plugins one by one and click **Install Now**. Then finally **Activate** them.
+
+![Adding New Plugins in Wordpress](/assets/img/uploads/plugins screen(1).png "Plugins Screen")
+
+* **[Yeost SEO](https://wordpress.org/plugins/wordpress-seo/) -** 
+* **[WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) -** 
+* **[UpdraftPlus Backups](https://wordpress.org/plugins/updraftplus/) -**
+* **[ShortPixel Image Optimizer](https://wordpress.org/plugins/shortpixel-image-optimiser/) -**
