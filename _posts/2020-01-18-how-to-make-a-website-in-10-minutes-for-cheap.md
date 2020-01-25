@@ -20,7 +20,7 @@ The internet is a very big place and there's a lot going on, all the time. With 
 
 People want things to read, watch and listen.  And that is an opportunity **for you** to make money. 
 
-### **Starting a blog in 2020 is easy.** 
+### **Starting a blog in 2020 is easy.**
 
 *You don't need any programming experience, or to spend a lot of money.* 
 
@@ -154,7 +154,7 @@ Now **click the big green "Submit" button** and wait for the payment to go throu
 
 Now **create your password** and log in to your account.
 
-Also, **check your email**. Bluehost sends you an email to verify your new registration.
+(Also, **check your email**. Bluehost sends you an email to verify your new registration.)
 
 ## STEP 2: INSTALL WORDPRESS
 
@@ -164,31 +164,31 @@ To write things and put them on your blog, we will use **Wordpress**. This is a 
 
 **Bluehost automatically installs it for you**. Thanks Bluehost. 
 
-After logging in, you see this. **Select any theme** for now. We can change this later.
+After creating a password, click **Login**. Select a theme if you want but it's best to **scroll down** and click "**Skip this step"**. We wil add a theme later.
 
 ![Choose a theme screen in Bluehost](/assets/img/uploads/choosing a theme.png "Choosing a theme during Wordpress Installation")
 
-Done? Now Wordpress is automatically installed. Like so.
+Done? Now WordPress is **automatically installed**. Once done, click **Start Building**.
 
 ![Bluehost automatic installation of Wordpress](/assets/img/uploads/Setting Up wordpress.png "Wordpress is auto installed by Bluehost")
 
-If your Wordpress installation was successful, skip the steps below and head to the next section.
+If your Wordpress installation was successful, skip the next couple steps below and head to the Optimize section.
 
-If, however, you DON'T see this screen or if it gets stuck or just keeps loading, **don't panic!**
+*If, however, you **DON'T** see the above screen or if it gets stuck or just keeps loading, don't panic!*
 
-**[Sign in](https://my.bluehost.com/cgi-bin/cplogin)** to your account again and **Click on Marketplace** on the left. Then click on **Add Website.**
+**[Sign in](https://my.bluehost.com/cgi-bin/cplogin)** to your Bluehost account again and click on **Marketplace** on the left. Then click on **Add Website.**
 
 ![Adding a website in Marketplace in Bluehost](/assets/img/uploads/adding a new website.png "Adding a Website Manually.")
 
-**Enter the name for your site and a cool Tagline.**
+Enter the name for your website and a nice Tagline.
 
 ![Adding Site Name and Tagline during manual website addition in Bluehost Marketplace](/assets/img/uploads/manual website creation.png "Adding a Site Name and Tagline")
 
-**Choose the new domain name you registered.** ("nameofyourblog.com") and **click the blue box "Next"**
+**Choose the new domain name you registered** ("nameofyourblog.com") and click **Next.**
 
 ![Assign Domain to new manually added website in Bluehost](/assets/img/uploads/choose domain.png "Adding the domain name")
 
-## STEP 3: OPTIMISE WORDPRESS
+## STEP 3: OPTIMIZE WORDPRESS
 
 There's a few things we should do once Wordpress is installed to improve the performace, appearance and security of our newly setup blog.
 
@@ -198,7 +198,7 @@ Whenever you open a website on a broswer, you will usually see a symbol of a loc
 
 ![SSL Certificate Symbol in title](/assets/img/uploads/ssl cert(1).png "SSL Certificate")
 
-We need to add this to our own blog so that all activites on our blog remain secure and avoid any information from being stolen. It also makes your readers comfortable knowing that they are on a safe website.
+We need to add this to our own blog so that all activites on our blog remain secure and theres no risk of any information being stolen. It also makes your readers comfortable knowing that they are on a safe website.
 
 Click on **My Sites** on the left of your Bluehost main panel, then click **Manage Site**.
 
@@ -250,21 +250,43 @@ Find more themes here:
 
 ### Install the Theme
 
+Wherever you find the theme you like, Download it to your computer. It will most likely be downloaded as a **.zip** file.
 
+From your main Bluehost screen, click **My Sites** and **Log in to WordPress**.
+
+![Logging in to WordPress in Bluehost](/assets/img/uploads/log into wordpress.png "Log into WordPress")
+
+Now we see the WordPress Dashboard. This is where all the magic happens. Take it in for a second.
+
+![WordPress Dashboard Overview.](/assets/img/uploads/wordpress home.png "Wordpress Dashboard")
+
+Click on **Appearance** on the left menu and click **Themes**. Now click on **Add New** near the top of the screen.
+
+![Adding a new theme in Wordpress Bluehost](/assets/img/uploads/add new theme(1).png "Adding a new WordPress theme")
+
+Now click on **Upload Theme** in the same place.
+
+![Upload a theme in WordPress in Bluehost](/assets/img/uploads/Upload theme.png "Upload Theme option in WordPress")
+
+Now click **Choose File**, select the downloaded .zip file for the theme from earlier on your computer and click **Install Now**.
+
+![Installing new theme in WordPress](/assets/img/uploads/upload the new theme.png "Install the new theme")
+
+Now go back to **Themes** on the left menu, find the new theme and click **Activate**.
+
+Once your new theme is activated, click on **Customize** and go through the options. You can tweak this till it looks exactly like how you like it.
 
 ### ADD USEFUL PLUGINS
 
-We want to add some extra features to make our 
+WordPress lets you add **plugins** to your website. These are little programs that provide extra features and functionality. They can be very useful and in some cases, **absolutely essential.**
 
-![Logging into Wordpress panel in Bluehost](/assets/img/uploads/log into wordpress.png "Log into Wordpress")
+Adding plugins is incredibly simple. You don't have to download a .zip file like for themes. 
 
-This is what it will look like. It's a lot to take in at once, but you'll get used to it once you start working on your blog.
+Click on **Plugins** on the left menu of the dashboard. **Search for a plugin** and click **Install Now**. Once installed, click **Activate**.
 
-![Wordpress Dashboard Page](/assets/img/uploads/wordpress home.png "Wordpress Dashboard")
+![Adding New Plugins in Wordpress](/assets/img/uploads/install plugins(1).png "Plugins Screen")
 
-Click on Plugins on the Bottom left. **Search** for the following plugins one by one and click **Install Now**. Then finally **Activate** them.
-
-![Adding New Plugins in Wordpress](/assets/img/uploads/plugins screen(1).png "Plugins Screen")
+Here are some absolutely **essential** plugins:
 
 * **[Yeost SEO](https://wordpress.org/plugins/wordpress-seo/) -** SEO is the process of making your website easy to find in search engines like Google. This is **very** important because you won't make any money from your blog if nobody ever finds it. Install this plugin and use this guide [here ](https://neilpatel.com/blog/setup-yoast-seo-wordpress-correctly/)to set it up.
 * **[WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) -** Caches data and allows your website to load up a lot faster.
