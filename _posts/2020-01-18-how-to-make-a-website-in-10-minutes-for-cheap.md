@@ -1,7 +1,7 @@
 ---
 date: '2020-01-18 14:52:05'
 layout: post
-title: How to Make a Blog that earns 1000$ per month in 2020
+title: How to Make a Blog and earn 1000$ per month in 2020
 subtitle: The only guide you need to get started with making money online.
 description: how to make a website
 category: budget
@@ -93,6 +93,8 @@ Cool? Okay, time to disco.
 
 # Making the blog
 
+## STEP 0: Get the Ingredients
+
 You need two things to put your blog on the internet where everyone can see it. What are they?
 
 1. **Domain name** - this is the name of your website. Like this website is yesnobuybuy.com.
@@ -112,7 +114,7 @@ Bluehost's plans start at [3$](https://www.bluehost.com/track/yesnobuybuy/) per 
 
 They also give you free credit, almost 175$ to spend on Google and Bing ads. **This is a very good deal**. 
 
-## **STEP 1: Register website's Name and get Hosting**
+## **STEP 1: Register website name and get Hosting**
 
 [Go to Bluehost](https://www.bluehost.com/track/yesnobuybuy/). **Click the big green "Get Started" button.** 
 
@@ -148,7 +150,7 @@ Now **create your password** and log in to your account.
 
 Also, **check your email**. Bluehost sends you an email to verify your new registration.
 
-# **Setting up the blog**
+## STEP 2: INSTALL WORDPRESS
 
 Now that we have a brand new website on the internet, it's time to go behind the scenes and start making some stuff.
 
@@ -168,7 +170,7 @@ If your Wordpress installation was successful, skip the steps below and head to 
 
 If, however, you DON'T see this screen or if it gets stuck or just keeps loading, **don't panic!**
 
-Open Bluehost in a new browser tab, sign in to your account again and **Click on Marketplace** on the left. Then click on **Add Website.**
+**[Sign in](https://my.bluehost.com/cgi-bin/cplogin)** to your account again and **Click on Marketplace** on the left. Then click on **Add Website.**
 
 ![Adding a website in Marketplace in Bluehost](/assets/img/uploads/adding a new website.png "Adding a Website Manually.")
 
@@ -179,3 +181,23 @@ Open Bluehost in a new browser tab, sign in to your account again and **Click on
 **Choose the new domain name you registered.** ("nameofyourblog.com") and **click the blue box "Next"**
 
 ![Assign Domain to new manually added website in Bluehost](/assets/img/uploads/choose domain.png "Adding the domain name")
+
+## STEP 3: OPTIMISE WORDPRESS
+
+There's a few things we should do once Wordpress is installed to improve the performace, appearance and security of our newly setup blog.
+
+### SECURITY
+
+Whenever you open a website on a broswer, you will usually see a symbol of a lock just before the name of the website. 
+
+![SSL Certificate Symbol in title](/assets/img/uploads/ssl cert(1).png "SSL Certificate")
+
+We need to add this to our own blog so that all activites on our blog remain secure. It also makes your readers comfortable knowing it's a safe website.
+
+Click on **My Sites** on the left of your Bluehost main panel, then click **Manage Site**.
+
+![Managing Site on Bluehost panel](/assets/img/uploads/manage site buehost.png "Entering Manage Site settings Bluehost")
+
+Head to **Security** and **Turn On the Free SSL Certificate**.
+
+![Turning on the Free SSL Certificate by Bluehost](/assets/img/uploads/Free SSL Cert Bluehost.png "Turn On Free SSL")
