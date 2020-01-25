@@ -12,7 +12,7 @@ paginate: false
 ---
 Have you ever asked yourself:
 
-> *"Hey, I wonder if I can actually make money on the internet"*?  
+> *"Hey, I wonder if I can actually make money on the internet"?*  
 
 I bet you have. It's easy, the answer is yes.  **Yes you can earn money on the internet**. But how?
 
@@ -20,9 +20,11 @@ The internet is a very big place and there's a lot going on, all the time. With 
 
 People want things to read, watch and listen.  And that is an opportunity **for you** to make money. 
 
-**Starting a blog in 2020 is easy.** 
+### **Starting a blog in 2020 is easy.** 
 
-You don't need any programming experience, or to spend a lot of money. **In under 2 hours**, you can have a beautiful blog up and running. Is it worth your time?
+*You don't need any programming experience, or to spend a lot of money.* 
+
+**In under 2 hours**, you can have a beautiful blog up and running. 
 
 # How much you can earn
 
@@ -39,33 +41,35 @@ Successful bloggers earn a lot of money.
 
 It's easy to look at these people and think you'll never get to their level. But that is the wrong way of approaching blogging. **Do not think like that.**
 
-**Everybody starts small**. The real secret lies in the strategies and methods they used to get where they are.
+**Everybody starts small**. The real secret lies in working smart and applying the right strategies and methods to make your website profitable.
 
-It can be a bit overwhelming and confusing. In simple words,
+For a beginner, it can all be a bit overwhelming and confusing. In simple words,
 
 **You need to make content that will attract people to your website. This is the golden rule.**
 
-If you think you can write about something, anything, you can be a blogger and earn money for it. 1000$ per month is relatively easy for a blog if you use the right tools and produce good content. 
+If you think you can write about something, *anything*, then you too can be a blogger and earn money for it. 
 
-All that said, let's get to the first step to getting there.
+1000$ per month is **easy** for a blog if you use the right tools and produce good content. 
+
+In this post, we'll look at exactly what to do to get started. 
 
 # Before you start
 
-## Think of a topic
+## Think of a topic for your blog
 
-**What do you want to write about?** It can be about anything.  Travel, school, technology, K-pop, you name it.
+**What do you want to write about?** It can be about anything.  Travel, school, technology, K-pop, politics or maybe make-up?
 
-It's a LOT easier if you choose something you already know a little about.
+It's a LOT easier if you choose a topic that you already know a little about.
 
-Are you interested in a topic and are you willing to learn more later as you continue your blog? Good. Choose that.
+You can also choose something that interests you and makes you want to learn more about it. This way, you will not run out of ideas when you're producing content for your blog.
 
-Doing this will prevent you from running out of ideas for your blog. This step is very important and will probably take you the most time. 
+This step is very important and will probably take you the most time. It's a good idea to take your time and think about this carefully before you move on. 
 
-So please, sit down and think for a minute. Need help? Here's some popular categories. 
+Need help? Here's some popular blog categories. 
 
 ![](/assets/img/uploads/popularblogcategories (1).png)
 
-Done? Lets's move on to the next step.
+Done? Yay! Lets's move on to the next step.
 
 ## Pick a name
 
@@ -104,7 +108,7 @@ You need two things to put your blog on the internet where everyone can see it. 
 
 **Domain name and hosting go together**. You need **both** for a website.  
 
-**\*\***This is the only place where you should spend money on your website. There is no need for any extra expenses as a beginner**.\*\***
+*This is the only place where you should spend money on your website. There is no need for any extra expenses as a beginner.*
 
 **[Bluehost](https://www.bluehost.com/track/yesnobuybuy/)** is the #1 recommended place to get your domain and hosting. It's the biggest name in the game and they host over 2 million websites. 
 
@@ -188,13 +192,13 @@ If, however, you DON'T see this screen or if it gets stuck or just keeps loading
 
 There's a few things we should do once Wordpress is installed to improve the performace, appearance and security of our newly setup blog.
 
-### SECURITY
+### ENHANCE SECURITY
 
 Whenever you open a website on a broswer, you will usually see a symbol of a lock just before the name of the website. 
 
 ![SSL Certificate Symbol in title](/assets/img/uploads/ssl cert(1).png "SSL Certificate")
 
-We need to add this to our own blog so that all activites on our blog remain secure. It also makes your readers comfortable knowing it's a safe website.
+We need to add this to our own blog so that all activites on our blog remain secure and avoid any information from being stolen. It also makes your readers comfortable knowing that they are on a safe website.
 
 Click on **My Sites** on the left of your Bluehost main panel, then click **Manage Site**.
 
@@ -206,7 +210,49 @@ Head to **Security** and **Turn On the Free SSL Certificate**.
 
 This will take sometime to activate. After about an hour, go [here](https://www.sslshopper.com/ssl-checker.html) and put in your website's name to check if the SSL certificate is active. Look for a line saying "The certificate was issued by \_\_\_\_\_\_\_\_"
 
-### PLUGINS
+### GET A THEME
+
+Wordpress has an **ENDLESS** collection of themes. Using a theme lets you instantly style your website without ever needing to code or draw anything yourself. 
+
+You can also tweak the themes to customise them and make them look like how you want them.
+
+Here are some recommendations:
+
+**[Verbosa](https://wordpress.org/themes/verbosa/)**
+
+![Verbosa Theme Demo post ](/assets/img/uploads/verbosa.png "Verbosa Theme")
+
+Verbosa is a highly customisable free theme. It's easy to learn, pretty to look at and simply, one of the best of all time.
+
+**[Olsen Light](https://wordpress.org/themes/olsen-light/)**
+
+![Olsen Light theme Preview](/assets/img/uploads/Olsen Light.png "Olsen Light")
+
+Stunningly beautiful theme. Easy to customise and looks great on all devices. Highly recommended.
+
+**[Writee](https://wordpress.org/themes/writee/)**
+
+![Writee Theme Preview](/assets/img/uploads/writee theme(1).png "Writee Theme")
+
+Clean, modern, stylish. What's really cool is that it has a bunch of different layout styles for you to choose from. Writee is an easy recommendation.
+
+**[Hueman](https://wordpress.org/themes/hueman/)**
+
+![Hueman Theme Preview](/assets/img/uploads/hueman theme.png "Hueman Theme")
+
+If you like a content heavy design, hueman may suit your needs. It's bright, bold and smooth. Give it a try.
+
+Find more themes here:
+
+* [Official Wordpress themes collection](http://wordpress.org/extend/themes/): The largest source for themes. All in one place.
+* [Theme Forest](https://themeforest.net/): The most popular place to buy a theme. Insane collection.
+* [Divi](https://www.elegantthemes.com/gallery/divi/): This is a paid theme that is probably one of the most flexible and customisable themes ever made. It costs a lot and I don't recommend it for you as a beginner but the option is there.
+
+### Install the Theme
+
+
+
+### ADD USEFUL PLUGINS
 
 We want to add some extra features to make our 
 
@@ -220,7 +266,9 @@ Click on Plugins on the Bottom left. **Search** for the following plugins one by
 
 ![Adding New Plugins in Wordpress](/assets/img/uploads/plugins screen(1).png "Plugins Screen")
 
-* **[Yeost SEO](https://wordpress.org/plugins/wordpress-seo/) -** 
-* **[WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) -** 
-* **[UpdraftPlus Backups](https://wordpress.org/plugins/updraftplus/) -**
-* **[ShortPixel Image Optimizer](https://wordpress.org/plugins/shortpixel-image-optimiser/) -**
+* **[Yeost SEO](https://wordpress.org/plugins/wordpress-seo/) -** SEO is the process of making your website easy to find in search engines like Google. This is **very** important because you won't make any money from your blog if nobody ever finds it. Install this plugin and use this guide [here ](https://neilpatel.com/blog/setup-yoast-seo-wordpress-correctly/)to set it up.
+* **[WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) -** Caches data and allows your website to load up a lot faster.
+* **[UpdraftPlus Backups](https://wordpress.org/plugins/updraftplus/) -** Free website backup tool that lets you regularly backup your blog and send it to Dropbox, Google Drive etc. Super useful.
+* **[ShortPixel Image Optimizer](https://wordpress.org/plugins/shortpixel-image-optimiser/) -** Automatically scales and compresses your images so that they load faster and use less data. Awesome.
+
+### WIDGETS
