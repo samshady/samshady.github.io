@@ -1,7 +1,7 @@
 ---
 date: '2020-01-18 14:52:05'
 layout: post
-title: How to Make a Blog and earn 1000$ per month in 2020
+title: How to Make a Blog and earn 3000$ per month in 2020
 subtitle: The only guide you need to get started with making money online.
 description: how to make a website
 category: budget
@@ -293,4 +293,24 @@ Here are some absolutely **essential** plugins:
 * **[UpdraftPlus Backups](https://wordpress.org/plugins/updraftplus/) -** Free website backup tool that lets you regularly backup your blog and send it to Dropbox, Google Drive etc. Super useful.
 * **[ShortPixel Image Optimizer](https://wordpress.org/plugins/shortpixel-image-optimiser/) -** Automatically scales and compresses your images so that they load faster and use less data. Awesome.
 
-### WIDGETS
+# Monetizing the Blog
+
+Now that your blog is up and ready, it's time to see how you can monetize it and earn money.
+
+The best monetization methods are: 
+
+* Selling space for advertisements.
+* Getting commisions for promoting and selling other people's products.
+* Selling your own products and services.
+
+### Selling Advertisements
+
+This is the easiest option. You basically sign up with an online ad agency that will place ads on your website.
+
+### The number of people that visit your blog is called "Traffic"
+
+**This method depends on your website's traffic.**
+
+If you have a blog that draws a large audience, you have **high traffic** and with that, you get **paid more** for advertisements.
+
+Blogs and websites with a ton of traffic every month make **millions** just from advertisements.
