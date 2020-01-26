@@ -313,4 +313,30 @@ This is the easiest option. You basically sign up with an online ad agency that 
 
 If you have a blog that draws a large audience, you have **high traffic** and with that, you get **paid more** for advertisements.
 
-Blogs and websites with a ton of traffic every month make **millions** just from advertisements.
+Blogs and websites with a ton of traffic every month make **millions** just from advertisements. 
+
+*Adding advertisements before creating an audience for your blog is useless.*
+
+But how do you increase traffic and create an audience? 
+
+* **Create high quality content** that is actually useful to people and create it often.
+
+  When you make a new blog, it simply does not have enough content for people to find any value in it. It will also be impossible to show up on Google search results.
+
+  You will have to steadily grow your blog with well written, meaningful content to become succesful as a blogger.
+* **Connect with your readers** on social media or in the comments section of your blog. 
+
+  Reply to their comments and be helpful if they have questions. This will increase reader loyalty, meaning they will come back to your blog more often.
+* Use **SEO** techniques to make your posts show up higher on google search results when people search for something.
+* Use good **titles** and **tags** for each post. This is useful for search engines to recognize what your blog and your posts are about and show it to other people.
+* **Guest Post** on other people's blogs. Writing posts for other blogs can bring in audience from that blog to yours if they liked what you said there.
+
+  Promoting your blog like this is one of the best ways to create an initial audience.
+* Select your best posts and submit them to social media outlets like Reddit.
+* Use a lot of images in your posts or use high quality ones. This keeps readers engaged and they will stay for longer on your blog.
+
+If you think your blog has enough depth, you can then add advertisements to your blog.
+
+The best way to do this is by signing up for **Google Adsense** by [submitting an application here](https://www.google.com/adsense/signup/new/lead).
+
+### Commisions from Affliate Marketing
