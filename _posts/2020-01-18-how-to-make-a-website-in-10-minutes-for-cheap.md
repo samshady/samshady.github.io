@@ -4,6 +4,8 @@ layout: post
 title: How to Make a Blog and earn 3000$ per month in 2020
 subtitle: The only guide you need to get started with making money online.
 description: how to make a website
+image: /assets/img/uploads/banner2.png
+optimized_image: /assets/img/uploads/banner2.png
 category: budget
 tags:
   - website
