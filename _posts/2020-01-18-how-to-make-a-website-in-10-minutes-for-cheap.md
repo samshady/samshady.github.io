@@ -34,7 +34,7 @@ People want things to read, watch and listen.  And that is an opportunity **for 
 
 Successful bloggers earn a lot of money. 
 
-* [Pat Flynn](https://www.smartpassiveincome.com/) earns millions every year from his blog Smart Passive Income.  
+* [Pat Flynn](https://www.smartpassiveincome.com/)earns millions every year from his blog Smart Passive Income.  
 
 ![Smart Passive Income Blog Income Report](/assets/img/uploads/SPI income.png "Pat Flynn's Blog makes a ton of money")
 
