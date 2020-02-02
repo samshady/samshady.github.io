@@ -214,6 +214,8 @@ This will take sometime to activate. After about an hour, go [here](https://www.
 
 ### GET A THEME
 
+![Adding a theme to WordPress](/assets/img/uploads/add a theme banner.png "Wordpress Themes")
+
 Wordpress has an **ENDLESS** collection of themes. Using a theme lets you instantly style your website without ever needing to code or draw anything yourself. 
 
 You can also tweak the themes to customize them and make them look like how you want them.
@@ -284,7 +286,7 @@ WordPress lets you add **plugins** to your website. These are little programs th
 
 Adding plugins is incredibly simple. You don't have to download a .zip file like for themes. 
 
-Click on **Plugins** on the left menu of the dashboard. **Search for a plugin** and click **Install Now**. Once installed, click **Activate**.
+Click on **Plugins** on the left menu of the dashboard. **Search for a plugin** and then once you find it, click **Install Now**, wait for it to install and then click **Activate**.
 
 ![Adding New Plugins in Wordpress](/assets/img/uploads/install plugins(1).png "Plugins Screen")
 
@@ -295,7 +297,33 @@ Here are some absolutely **essential** plugins:
 * **[UpdraftPlus Backups](https://wordpress.org/plugins/updraftplus/) -** Free website backup tool that lets you regularly backup your blog and send it to Dropbox, Google Drive etc. Super useful.
 * **[ShortPixel Image Optimizer](https://wordpress.org/plugins/shortpixel-image-optimiser/) -** Automatically scales and compresses your images so that they load faster and use less data. Awesome.
 
+### Remove Useless Plugins
+
+Wordpress comes with a few plugins already installed. 
+
+While we can just ignore these, it's recommended to only keep what you really use and remove other unwanted plugins.
+
+Click **Plugins** then **Installed plugins** on the left
+
+![Editing the installed plugins in WordPress](/assets/img/uploads/removing plugins.png "Installed plugins screen Wordpress")
+
+Click on the box next to all plugins you did not install, including **Jetpack by WordPress.com**, **MOJO Marketplace**, and **OptinMonster API.** 
+
+*Leave **Akismet Anti-Spam** untouched, it's a useful plugin.*
+
+![selecting useless plugins](/assets/img/uploads/select plugins.png "Selecting unwanted plugins")
+
+Click on **Bulk Actions** and select **Deactivate.** Click on **Apply.**
+
+![Deactivating pre-installed plugins](/assets/img/uploads/deactivate and delete.png "Deactivating Pre-installed plugins")
+
+Select all plugins (except what you installed and Akismet) by clicking the boxes next to their names. Click on **Bulk Actions**, select **Delete** and click **Apply**. 
+
+# Write your first post
+
 # Monetizing the Blog
+
+![Monetisation Section Banner](/assets/img/uploads/monetize(2).png "Monetizing the blog")
 
 Now that your blog is up and ready, it's time to see how you can monetize it and earn money.
 
@@ -370,3 +398,20 @@ Here's an example of how Pat Flynn includes affiliate links in his blog. Look at
  It's no wonder that he makes most of his income from affiliate links. People trust what he recommends, they learn about new useful products and deals and in return he makes a good profit. Win-win.
 
 ![Amazon associates affiliate income report](/assets/img/uploads/amazon affliates.png "Amazon Associates income report")
+
+### Selling Your Own Products
+
+This option can be a big earner for a blog if used well. There are several things you can promote and sell on your blog
+
+* **A small guide book or a video course**. This is a great option if you are knowledgable about a topic. 
+
+  Do you have a food blog? A recipe book is a great option to collect and distribute your best recipes to your readers.
+
+  A travel blog? A list of the best travel destinations or a packing list can be a useful tool for your readers. 
+
+  Are you a voice coach or perhaps an authority on another topic? A set of video guides can help you share your information with your readers if they are willing to pay for it.
+
+  Many bloggers also write and self-publish ebooks that they then sell to their readers. Remember, your content must always be excellent if you want people to spend their hard-earned money on it.
+* **Merchandise** related to your own blog. You could design customised t-shirts or coffee cups with your logos and sell them to your community of readers. This is also a very popular option.
+
+![LTT Merchandise shop example](/assets/img/uploads/seeling merch.png "LTT selling their merch")
