@@ -99,9 +99,9 @@ The next steps are much easier, you'll just be following instructions.
 
 Cool? Okay, time to disco.
 
-# Making the blog
+# Make the blog
 
-## STEP 0: Get the Ingredients
+## STEP 0: GET THE INGREDIENTS
 
 You need two things to put your blog on the internet where everyone can see it. What are they?
 
@@ -122,7 +122,7 @@ Bluehost's plans start at [3$](https://www.bluehost.com/track/yesnobuybuy/) per 
 
 They also give you free credit, almost 175$ to spend on Google and Bing ads. **This is a very good deal**. 
 
-## **STEP 1: Register website name and get Hosting**
+## **STEP 1: REGISTER DOMAIN NAME AND GET HOSTING**
 
 [Go to Bluehost](https://www.bluehost.com/track/yesnobuybuy/). **Click the big green "Get Started" button.** 
 
@@ -252,7 +252,7 @@ Find more themes here:
 * [Theme Forest](https://themeforest.net/): The most popular place to buy a theme. Insane collection.
 * [Divi](https://www.elegantthemes.com/gallery/divi/): This is a paid theme that is probably one of the most flexible and customisable themes ever made. It costs a lot and I don't recommend it for you as a beginner but the option is there.
 
-### Install the Theme
+### INSTALL THE THEME
 
 Wherever you find the theme you like, Download it to your computer. It will most likely be downloaded as a **.zip** file.
 
@@ -331,11 +331,11 @@ Click **Settings** on the left and then **Permalinks**. Then choose **Post name*
 
 ![Changing permalink structure on WordPress](/assets/img/uploads/permalinks settings.png "Changing Permalink option in WordPress")
 
+# WRITE YOUR FIRST POST
 
+CREATE 
 
-# Write your first post
-
-# Monetize the Blog
+# MONETIZE YOUR BLOG
 
 ![Monetisation Section Banner](/assets/img/uploads/monetize(2).png "Monetizing the blog")
 
@@ -355,6 +355,8 @@ This is the easiest option. You basically sign up with an online ad agency that 
 
 **This method depends 100% on your website's traffic.**
 
+[Click here to see how to add **Google Analytics** to your blog which will let you track your blog's traffic for free.](https://www.wpbeginner.com/beginners-guide/how-to-install-google-analytics-in-wordpress/)
+
 If you have a blog that draws a large audience, you have **high traffic** and with that, you get **paid more** for advertisements.
 
 Blogs and websites with a ton of traffic every month make **millions** just from advertisements. 
@@ -373,11 +375,9 @@ So how do you increase traffic to your blog and create an audience?
 * **Connect with your readers** on social media or in the comments section of your blog. 
 
   Reply to their comments and be helpful if they have questions. This will increase reader loyalty, meaning they will come back to your blog more often.
-* Use **SEO** techniques to make your posts show up higher on google search results when people search for something.
+* Use **SEO** techniques to make your posts show up higher on google search results when people search for something. [Here's an excellent free guide](https://moz.com/beginners-guide-to-seo). 
 * Use good **titles** and **tags** for each post. This is useful for search engines to recognize what your blog and your posts are about and show it to other people.
-* **Guest Post** on other people's blogs. Writing posts for other blogs can bring in audience from that blog to yours if they liked what you said there.
-
-  Promoting your blog like this is one of the best ways to create an initial audience.
+* **Guest Post** on other people's blogs. Writing posts for other blogs can bring in audience from that blog to yours if they liked what you said there..
 * Select your best posts and share them to social media outlets like Reddit, Facebook etc.
 * Use high quality images in your posts. This keeps readers engaged and they will stay for longer on your blog. But don't go overboard, only use images when it's useful to show something you want. 
 * Tell your friends and family about the blog.
@@ -426,6 +426,23 @@ This option can be a big earner for a blog if used well. There are several thing
   Are you a voice coach or perhaps an authority on another topic? A set of video guides can help you share your information with your readers if they are willing to pay for it.
 
   Many bloggers also write and self-publish ebooks that they then sell to their readers. Remember, your content must always be excellent if you want people to spend their hard-earned money on it.
-* **Merchandise** related to your own blog. You could design customised t-shirts or coffee cups with your logos and sell them to your community of readers. This is also a very popular option.
+* **Merchandise** related to your own blog. You could design customised t-shirts or coffee cups with your logos and sell them to your community of readers. This is also a very popular option. Here's an example from linustechtips.com
 
 ![LTT Merchandise shop example](/assets/img/uploads/seeling merch.png "LTT selling their merch")
+
+# Tips, Tricks and Tools
+
+Here are some resources and tools you can use to increase your own knowledge and make your website better.
+
+* [Tinypng ](https://tinypng.com/)- To compress your images before you upload them. 
+* [Inkscape ](https://inkscape.org/)- Best **free** alternative to Photoshop to make cool graphics for your blog.
+* [Logos By Nick ](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w)- Set of awesome free Inkscape guides.
+* [Vecteezy ](https://www.vecteezy.com/)- Millions of free icons and vector graphics.
+* [Pexels ](https://www.pexels.com/)- Beautiful stock images to use for free on your blog.
+* [CodeAcademy ](https://www.codecademy.com/)- Learn more about how web design works with free courses.
+* [Smashing Magazine ](http://www.smashingmagazine.com/)- An amazing online magazine with tons of articles and guides about web development.
+* [Wpbeginner ](https://www.wpbeginner.com/blog/)- A great place to read about how to upgrade your blog.
+
+# Conclusion
+
+If you need assistance with anything, feel free to leave a comment below
