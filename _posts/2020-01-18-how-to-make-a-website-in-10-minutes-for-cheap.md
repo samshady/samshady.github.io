@@ -166,7 +166,7 @@ To write things and put them on your blog, we will use **Wordpress**. This is a 
 
 **Bluehost automatically installs it for you**. Thanks Bluehost. 
 
-After creating a password, click **Login**. Select a theme if you want but it's best to **scroll down** and click "**Skip this step"**. We wil add a theme later.
+After creating a password, click **Login**. Select a theme if you want but it's best to **scroll down** and click "**Skip this step"**. We will add a theme later.
 
 ![Choose a theme screen in Bluehost](/assets/img/uploads/choosing a theme.png "Choosing a theme during Wordpress Installation")
 
@@ -192,15 +192,15 @@ Enter the name for your website and a nice Tagline.
 
 ## STEP 3: OPTIMIZE WORDPRESS
 
-There's a few things we should do once Wordpress is installed to improve the performace, appearance and security of our newly setup blog.
+There's a few things we should do once Wordpress is installed to improve the performance, appearance and security of our newly setup blog.
 
 ### ENHANCE SECURITY
 
-Whenever you open a website on a broswer, you will usually see a symbol of a lock just before the name of the website. 
+Whenever you open a website on a browser, you will usually see a symbol of a lock just before the name of the website. 
 
 ![SSL Certificate Symbol in title](/assets/img/uploads/ssl cert(1).png "SSL Certificate")
 
-We need to add this to our own blog so that all activites on our blog remain secure and theres no risk of any information being stolen. It also makes your readers comfortable knowing that they are on a safe website.
+We need to add this to our own blog so that all activities on our blog remain secure and theres no risk of any information being stolen. It also makes your readers comfortable knowing that they are on a safe website.
 
 Click on **My Sites** on the left of your Bluehost main panel, then click **Manage Site**.
 
@@ -216,7 +216,7 @@ This will take sometime to activate. After about an hour, go [here](https://www.
 
 Wordpress has an **ENDLESS** collection of themes. Using a theme lets you instantly style your website without ever needing to code or draw anything yourself. 
 
-You can also tweak the themes to customise them and make them look like how you want them.
+You can also tweak the themes to customize them and make them look like how you want them.
 
 Here are some recommendations:
 
@@ -224,7 +224,7 @@ Here are some recommendations:
 
 ![Verbosa Theme Demo post ](/assets/img/uploads/verbosa.png "Verbosa Theme")
 
-Verbosa is a highly customisable free theme. It's easy to learn, pretty to look at and simply, one of the best of all time.
+Verbosa is a highly customizable free theme. It's easy to learn, pretty to look at and simply, one of the best of all time.
 
 **[Olsen Light](https://wordpress.org/themes/olsen-light/)**
 
@@ -311,21 +311,23 @@ This is the easiest option. You basically sign up with an online ad agency that 
 
 ### The number of people that visit your blog is called "Traffic"
 
-**This method depends on your website's traffic.**
+**This method depends 100% on your website's traffic.**
 
 If you have a blog that draws a large audience, you have **high traffic** and with that, you get **paid more** for advertisements.
 
 Blogs and websites with a ton of traffic every month make **millions** just from advertisements. 
 
-*Adding advertisements before creating an audience for your blog is useless.*
+![Google Adsense Revenue Report](/assets/img/uploads/google adsense.png "Google Adsense Income")
 
-But how do you increase traffic and create an audience? 
+Therefore it implies that adding advertisements *before* creating an audience for your blog is **useless**.
+
+So how do you increase traffic to your blog and create an audience? 
 
 * **Create high quality content** that is actually useful to people and create it often.
 
   When you make a new blog, it simply does not have enough content for people to find any value in it. It will also be impossible to show up on Google search results.
 
-  You will have to steadily grow your blog with well written, meaningful content to become succesful as a blogger.
+  You will have to steadily grow your blog with well written, meaningful content to become successful as a blogger.
 * **Connect with your readers** on social media or in the comments section of your blog. 
 
   Reply to their comments and be helpful if they have questions. This will increase reader loyalty, meaning they will come back to your blog more often.
@@ -334,11 +336,24 @@ But how do you increase traffic and create an audience?
 * **Guest Post** on other people's blogs. Writing posts for other blogs can bring in audience from that blog to yours if they liked what you said there.
 
   Promoting your blog like this is one of the best ways to create an initial audience.
-* Select your best posts and submit them to social media outlets like Reddit.
-* Use a lot of images in your posts or use high quality ones. This keeps readers engaged and they will stay for longer on your blog.
+* Select your best posts and share them to social media outlets like Reddit, Facebook etc.
+* Use high quality images in your posts. This keeps readers engaged and they will stay for longer on your blog. But don't go overboard, only use images when it's useful to show something you want. 
+* Tell your friends and family about the blog.
+* Put the URL of your blog in your resume or personal website. This makes it easy for people to find your work right away.
 
 If you think your blog has enough depth, you can then add advertisements to your blog.
 
 The best way to do this is by signing up for **Google Adsense** by [submitting an application here](https://www.google.com/adsense/signup/new/lead).
 
-### Commisions from Affliate Marketing
+### Commissions from Affiliate Marketing
+
+Affiliate marketing is when companies and brands pay **you** for promoting **their** products.
+
+* You sign up with an affiliate program like [Amazon Associates](https://affiliate-program.amazon.com/). 
+* Include links to the products in your blog posts.
+* Users click your links and the company pays you a small part of their sale income.
+* Voila
+
+Its easy to make a lot from just affiliate marketing but remember to follow the necessary guidelines: 
+
+*
