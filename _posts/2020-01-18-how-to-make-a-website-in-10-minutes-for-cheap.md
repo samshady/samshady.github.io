@@ -3,7 +3,7 @@ date: '2020-01-18 14:52:05'
 layout: post
 title: How to Make a Blog and earn 3000$ per month in 2020
 subtitle: The only guide you need to get started with making money online.
-description: how to make a website
+description: How to make a blog for cheap and earn 3000$ in 2020 using Wordpress
 image: >-
   https://res.cloudinary.com/samshady/image/upload/v1580675456/start-blog.png
 optimized_image: >-
