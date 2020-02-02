@@ -297,7 +297,7 @@ Here are some absolutely **essential** plugins:
 * **[UpdraftPlus Backups](https://wordpress.org/plugins/updraftplus/) -** Free website backup tool that lets you regularly backup your blog and send it to Dropbox, Google Drive etc. Super useful.
 * **[ShortPixel Image Optimizer](https://wordpress.org/plugins/shortpixel-image-optimiser/) -** Automatically scales and compresses your images so that they load faster and use less data. Awesome.
 
-### Remove Useless Plugins
+### REMOVE USELESS PLUGINS
 
 Wordpress comes with a few plugins already installed. 
 
@@ -319,9 +319,23 @@ Click on **Bulk Actions** and select **Deactivate.** Click on **Apply.**
 
 Select all plugins (except what you installed and Akismet) by clicking the boxes next to their names. Click on **Bulk Actions**, select **Delete** and click **Apply**. 
 
+### CHANGE PERMALINK STRUCTURE
+
+When you create a new post, lets say, "How to boil an egg", the link to that post should be "nameofyourblog.com/how-to-boil-an-egg". This is called a permalink.
+
+But Wordpress by default just uses a number instead of the post's title like "nameofyourblog.com/?p=231".
+
+This is not just ugly and confusing but it also hurts your SEO which means your blog will be harder to find on Google. To change this,
+
+Click **Settings** on the left and then **Permalinks**. Then choose **Post name** and save changes.
+
+![Changing permalink structure on WordPress](/assets/img/uploads/permalinks settings.png "Changing Permalink option in WordPress")
+
+
+
 # Write your first post
 
-# Monetizing the Blog
+# Monetize the Blog
 
 ![Monetisation Section Banner](/assets/img/uploads/monetize(2).png "Monetizing the blog")
 
