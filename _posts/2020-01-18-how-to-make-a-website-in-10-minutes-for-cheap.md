@@ -349,11 +349,24 @@ The best way to do this is by signing up for **Google Adsense** by [submitting a
 
 Affiliate marketing is when companies and brands pay **you** for promoting **their** products.
 
-* You sign up with an affiliate program like [Amazon Associates](https://affiliate-program.amazon.com/). 
+ It's incredible because all you're doing is recommending things to your readers, and getting paid for it.
+
+* Sign up with an affiliate program like [Amazon Associates](https://affiliate-program.amazon.com/). 
 * Include links to the products in your blog posts.
 * Users click your links and the company pays you a small part of their sale income.
 * Voila
 
-Its easy to make a lot from just affiliate marketing but remember to follow the necessary guidelines: 
+Its easy to make a lot from just affiliate marketing but remember to follow these guidelines: 
 
-*
+* Only recommend things that you personally find good and useful to your readers. They are not stupid and will very quickly lose trust in you if you recommend terrible products.
+* Keep your recommendations **relevant** to the theme and topic of your blog. Have a beauty blog? Recommend quality make-up items and tools. A tech review blog? Recommend your readers some great value deals and so on. 
+* Make your affiliate links **clear** and easy to find. Use colorful buttons or banners that show the users where to click.
+* Most importantly, **be honest** to your readers that you will make a small income if they use your links. Make it clear to them that they don't pay anything extra out of their own pockets and that you are only recommending things that you truly believe are good.
+
+Here's an example of how Pat Flynn includes affiliate links in his blog. Look at the easy to spot buttons and the clear disclaimer under each link along with a detailed description about his reason for recommending that product.
+
+![Pat Flynn affiliate links example ](/assets/img/uploads/affliate pat.png "Pat Flynn example ")
+
+ It's no wonder that he makes most of his income from affiliate links. People trust what he recommends, they learn about new useful products and deals and in return he makes a good profit. Win-win.
+
+![Amazon associates affiliate income report](/assets/img/uploads/amazon affliates.png "Amazon Associates income report")
