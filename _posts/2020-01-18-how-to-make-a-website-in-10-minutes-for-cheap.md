@@ -331,10 +331,6 @@ Click **Settings** on the left and then **Permalinks**. Then choose **Post name*
 
 ![Changing permalink structure on WordPress](/assets/img/uploads/permalinks settings.png "Changing Permalink option in WordPress")
 
-# WRITE YOUR FIRST POST
-
-CREATE 
-
 # MONETIZE YOUR BLOG
 
 ![Monetisation Section Banner](/assets/img/uploads/monetize(2).png "Monetizing the blog")
@@ -430,7 +426,7 @@ This option can be a big earner for a blog if used well. There are several thing
 
 ![LTT Merchandise shop example](/assets/img/uploads/seeling merch.png "LTT selling their merch")
 
-# Tips, Tricks and Tools
+# Bonus Tools
 
 Here are some resources and tools you can use to increase your own knowledge and make your website better.
 
@@ -445,4 +441,12 @@ Here are some resources and tools you can use to increase your own knowledge and
 
 # Conclusion
 
-If you need assistance with anything, feel free to leave a comment below
+If you've gone through everything above, you probably now have a fully functioning blog. Send this guide to your friends if you think it may help them.
+
+### Share your website's link with us in the comments below and let us have a look!
+
+Your blog is now just waiting for you to add content to it and make you some money. 
+
+Remember, take your time with it and don't give up if it gets hard. It's impossible to achieve anything great without dedication and hard work.
+
+Good luck!
