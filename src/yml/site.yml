@@ -17,7 +17,7 @@ tags:
   - university
   - gifts
   - recommendations
-show_hero: true
+show_hero: false
 email: contact@yesnobuybuy.com
 disqus_username: yesnobuybuy
 paginate:
