@@ -24,10 +24,16 @@ Let's get started.
 
 ![Extra monitor setup example with a laptop and a wide screen monitor ](/assets/img/uploads/dual display.png "Dual display setup")
 
-The single best way to boost your productivity immediately is to add more screen space to your setup. 
+The single best way to boost your productivity immediately is to add more screen space to your working setup. 
 
 More free space lets you have multiple open windows right in front of you without having to switch between them. 
 
+You can, for example, have a video tutorial open on youtube in one screen and follow along in another. This may not sound very impressive but there is a reason why you'll see dual or sometimes even several monitors being used by creators and designers in a tech company.
+
+According to [a study done by the Jon Peddie Research](http://www.jonpeddie.com/special/MultDisp.shtml), productivity increases an average of 42% when using multiple displays.
+
 The best part about this option is that it is easy and inexpensive. 
 
-For an extra monitor, the cheapest option is to look for second hand deals on ebay, craigslist etc. There is a high chance that you will find a great deal instead of buying a brand new monitor.
+The cheapest option is to look for second hand deals on ebay, craigslist etc. It's not hard to find great pre-used monitors for under 50$ regularly. In this case, **always look for seller ratings and read the reviews. Don't forget to test out the monitor before you buy it.**
+
+![](/assets/img/uploads/ebay.png)
