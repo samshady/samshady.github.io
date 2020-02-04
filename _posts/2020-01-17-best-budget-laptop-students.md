@@ -59,7 +59,7 @@ Companies and reviewers usually love to throw out complicated names and numbers 
 
 * Do you want to have 20 tabs in Chrome open all the time? No problem. The **4 GB RAM** will take care of that.
 
-  * What if I want like, 40 tabs? Again, no problem. Acer thought of that and left empty space for you inside the laptop to add more RAM. **You can make the 4 GB RAM into 32 GB** and have a 100 tabs open if you want. #YOLO
+  * What if I want like, 40 tabs? Again, no problem. Acer thought of that and left empty space for you inside the laptop to add more RAM. **You can make the 4 GB RAM into 32 GB** and have a 100 tabs open if you want.
 * Do you want videos and photos and PDFs to load instantly? No problem. The **128 GB SSD** inside makes all your installed programs and stored files and also Windows to open up lightning fast.
 
   * What if I have like, more than a 128 GB of files. No problem. Acer thought of that too and left some empty space for you to **add an extra SSD and expand your storage capacity**. I added an additional 250 GB SSD to this laptop in under 15 minutes. It's that easy. If you want a detailed guide, leave a comment below!
@@ -73,8 +73,12 @@ Companies and reviewers usually love to throw out complicated names and numbers 
 
 This where it gets good. This model of the Aspire 5 (A515-43-R19L) is listed for usually around **320$** on Amazon. Regular sale price is around an amazing **265$.** If it's not available in your country's Amazon or if it's too expensive there, you can ship it from the US website for only around 60$ and still get it for under 400$.  
 
-**This is hands down the best deal you can find for a new budget laptop in the market right now**. If value for your money is what is important to you then don't bother with Chromebooks or anything fancy and expensive. The Acer Aspire 5 with its easy to upgrade specs, premium looks and quality and all round solid performance is a big win for Acer and should absolutely be your choice for a budget laptop.
+**This is hands down the best deal you can find for a new budget laptop in the market right now**. 
+
+If value for your money is what is important to you then the Acer Aspire 5 with its easy to upgrade specs, premium looks and quality and all round solid performance should absolutely be your choice for a budget laptop.
 
 **YESNOBUYBUY: YES**
 
 [BUY NOW FROM AMAZON](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B07RF1XD36?tag=yesnobuybuy-20){: .button}
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B07CVL2D2S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07CVL2D2S&linkCode=as2&tag=yesnobuybuy-20&linkId=8c65f73325d567d3e10993e0c622d78f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07CVL2D2S&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=yesnobuybuy-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=yesnobuybuy-20&l=am2&o=1&a=B07CVL2D2S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
