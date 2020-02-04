@@ -20,4 +20,14 @@ We went through a lot of advice on the internet and filtered it down to just a f
 
 Let's get started.
 
-# A Second Monitor
+# Add an extra monitor to your Laptop or Computer
+
+![Extra monitor setup example with a laptop and a wide screen monitor ](/assets/img/uploads/dual display.png "Dual display setup")
+
+The single best way to boost your productivity immediately is to add more screen space to your setup. 
+
+More free space lets you have multiple open windows right in front of you without having to switch between them. 
+
+The best part about this option is that it is easy and inexpensive. 
+
+For an extra monitor, the cheapest option is to look for second hand deals on ebay, craigslist etc. There is a high chance that you will find a great deal instead of buying a brand new monitor.
