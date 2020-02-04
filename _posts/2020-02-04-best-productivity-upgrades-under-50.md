@@ -24,16 +24,28 @@ Let's get started.
 
 ![Extra monitor setup example with a laptop and a wide screen monitor ](/assets/img/uploads/dual display.png "Dual display setup")
 
-The single best way to boost your productivity immediately is to add more screen space to your working setup. 
+The single best way to boost your productivity immediately is to add more screen-space to your working setup.
 
-More free space lets you have multiple open windows right in front of you without having to switch between them. 
+### More free space lets you have multiple applications right in front of you without having to switch between them. 
 
-You can, for example, have a video tutorial open on youtube in one screen and follow along in another. This may not sound very impressive but there is a reason why you'll see dual or sometimes even several monitors being used by creators and designers in a tech company.
+You can, for example, have a video tutorial open on youtube in one screen and follow along in another. Or open up a spreadsheet in one screen as reference and write an email in the other. 
 
-According to [a study done by the Jon Peddie Research](http://www.jonpeddie.com/special/MultDisp.shtml), productivity increases an average of 42% when using multiple displays.
+There's a reason why you'll often see two or sometimes *several* monitors being used by creators and designers in any tech company.
 
-The best part about this option is that it is easy and inexpensive. 
+According to [a study done by the Jon Peddie Research](http://www.jonpeddie.com/special/MultDisp.shtml), productivity increases an average of **42%** when using multiple displays.
 
-The cheapest option is to look for second hand deals on ebay, craigslist etc. It's not hard to find great pre-used monitors for under 50$ regularly. In this case, **always look for seller ratings and read the reviews. Don't forget to test out the monitor before you buy it.**
+The best part about this option is that it is **easy and inexpensive**. 
 
-![](/assets/img/uploads/ebay.png)
+**The cheapest option** is to look for second hand deals on ebay, craigslist etc. It's not hard to find great pre-used monitors for under 50$ regularly. 
+
+In this case, **always look for seller ratings and read the reviews. Don't forget to test out the monitor before you buy it.**
+
+![Ebay second hand monitor deal](/assets/img/uploads/ebay.png "Ebay second hand deal")
+
+If all that is too much work and you'd rather just get a new one, here's our top budget recommendation:
+
+**[Acer SB220Q](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B07CVL2D2S?tag=yesnobuybuy-20)**
+
+![Acer SB220Q recommendation for best budget monitor](/assets/img/uploads/acer-monitor-recommendation.png "Top monitor recommendation Acer SB220Q")
+
+If you can't find this specific model in your country, [just look for any monitor under a 100$ and you're all set](https://assoc-redirect.amazon.com/g/r/https://amzn.to/2RW3vtE)!
