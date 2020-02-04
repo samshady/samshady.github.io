@@ -51,8 +51,6 @@ Let's talk some numbers.
 
 # Specs
 
-Ah the specs. Everybody loves to talk specs. Gotta have all the right specs. Specs for days. Specs.
-
 Companies and reviewers usually love to throw out complicated names and numbers and expect the average consumer to understand what it all means. **They don't**. Not because they're stupid, no. Oh no no. They just don't have the time or the need. All they want is a computer that can do everything they need it to do. 
 
 **The Aspire does everything you need it to do.** It'll make you happy with how fast and reliable it is. 
@@ -80,5 +78,3 @@ If value for your money is what is important to you then the Acer Aspire 5 with 
 **YESNOBUYBUY: YES**
 
 [BUY NOW FROM AMAZON](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B07RF1XD36?tag=yesnobuybuy-20){: .button}
-
-<a target="_blank"  href="https://www.amazon.com/gp/product/B07CVL2D2S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07CVL2D2S&linkCode=as2&tag=yesnobuybuy-20&linkId=8c65f73325d567d3e10993e0c622d78f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07CVL2D2S&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=yesnobuybuy-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=yesnobuybuy-20&l=am2&o=1&a=B07CVL2D2S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
