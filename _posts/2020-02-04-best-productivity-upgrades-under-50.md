@@ -86,4 +86,6 @@ Remembering and keeping everything organized in the brain is hard.
 
 It lets us process that information better and faster and also create new ideas without worrying about forgetting something.
 
-The easiest way to do this is to write down everything using the classic pen and paper method.
+### Do this twice every day- Morning: to flush out your thoughts and get your creative juices flowing and Evening - to review your day and plan out the next.
+
+The easiest way to do this is using the classic pen and paper method.
