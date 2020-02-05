@@ -54,6 +54,8 @@ If all that is too much work and you'd rather just get a new one, here's our top
 
 # Stand While Working
 
+![Woman standing up in her office while working](/assets/img/uploads/standing desk banner.png "Standing up between periods of sitting")
+
 When we sit for long periods of time, our posture tends to get worse.
 
 The risks of pain and stiffness in the back and joints plus increased weight and improper breathing increases.
