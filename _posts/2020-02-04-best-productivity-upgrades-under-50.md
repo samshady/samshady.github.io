@@ -1,7 +1,7 @@
 ---
 date: '2020-02-04 11:41:22'
 layout: post
-title: 5 Productivity Upgrades Under 100$
+title: Top 3 Productivity Upgrades Under 50$
 subtitle: >-
   Instant increase in productivity with smart yet affordable tools and
   techniques.
@@ -103,3 +103,9 @@ Or make it easier to see your plans and ideas with a classic whiteboard. This is
 **[AmazonBasics Whiteboard](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B07K6B8Q5V?tag=yesnobuybuy-20)**
 
 ![AmazonBasics whiteboard for writing down notes](/assets/img/uploads/whiteboard.png "AmazonBasics Whiteboard")
+
+# Conclusion
+
+You don't have to spend a lot to do anything in our world, let alone be more productive. 
+
+Being resourceful and smart about your choices will ultimately lead you to more success than expensive, unreliable options that promise but do not deliver. Good luck!
