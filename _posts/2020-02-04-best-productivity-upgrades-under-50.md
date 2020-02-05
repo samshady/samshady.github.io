@@ -28,7 +28,9 @@ The single best way to boost your productivity immediately is to add more screen
 
 ### More free space lets you have multiple applications right in front of you without having to switch between them.
 
-You can, for example, have a video tutorial open on youtube in one screen and follow along in another. Or open up a spreadsheet in one screen as reference and write an email in the other. 
+You can, for example, have a video tutorial open on youtube in one screen and follow along in another. 
+
+Or open up a spreadsheet in one screen as reference and write an email in the other. 
 
 There's a reason why you'll often see two or sometimes *several* monitors being used by creators and designers in any tech company.
 
@@ -49,3 +51,25 @@ If all that is too much work and you'd rather just get a new one, here's our top
 ![Acer SB220Q recommendation for best budget monitor](/assets/img/uploads/acer-monitor-recommendation.png "Top monitor recommendation Acer SB220Q")
 
 *If you can't find this specific model, [just look for any monitor under a 100$ and you're all set](https://assoc-redirect.amazon.com/g/r/https://amzn.to/2RW3vtE)!*
+
+# Stand While Working
+
+When we sit for long periods of time, our posture tends to get worse.
+
+The risks of pain and stiffness in the back and joints plus increased weight and improper breathing increases.
+
+[According to a study in 2016](https://www.sciencedaily.com/releases/2016/05/160525220539.htm) standing up while working increased productivity by almost **50%** among users of standing desks in offices.
+
+The key to this step however is to **not overdo it**. Standing up or sitting down are both bad if done for long periods of time at once. 
+
+### Try to alternate between sitting down and standing up. Also add some light stretching and walking around for the best results.
+
+**The easiest and free way** to achieve this is to put some books or cardboard boxes on your table and use them for extra height. 
+
+However if you want a less messy option, [use a standing desk with adjustable height](amzn.to/382jeg6). 
+
+Here's our top recommendation:
+
+**[SHW Height Adjustable Mobile Laptop Stand](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B073KTXFLS?tag=yesnobuybuy-20)**
+
+![SHW Standing desk recommendation for standing up more](/assets/img/uploads/standing-desk.png "Best Standing desk with adjustable height")
