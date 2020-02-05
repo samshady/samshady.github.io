@@ -5,7 +5,11 @@ title: Top 3 Productivity Upgrades Under 50$
 subtitle: >-
   Increase productivity instantly with smart yet affordable tools and
   techniques.
-description: 'Learn how to step up your daily productivity game with just 50$ and '
+description: 'Learn how to step up your productivity game with just 50$ in 3 different ways'
+image: >-
+  https://res.cloudinary.com/samshady/image/upload/v1580937986/productivity-upgrades-banner_1_middjs.png
+optimized_image: >-
+  https://res.cloudinary.com/samshady/image/upload/c_scale,w_380/v1580937986/productivity-upgrades-banner_1_middjs.png
 category: work
 tags:
   - Budget
