@@ -78,14 +78,28 @@ Here's our top recommendation:
 
 # Write Down Your Thoughts
 
+![Einstein writing down his formulas on a blackboard](/assets/img/uploads/write-down.png "Einstein writes down his thoughts")
+
 Writing down your ideas is a great way to clear up some space in your mind. 
 
 Remembering and keeping everything organized in the brain is hard.
 
- When we externalize this process by taking out the information and organizing it on something else, we let the brain focus on other important tasks.
+By taking out the information and organizing it on something else, we let the brain focus on other important tasks.
 
 It lets us process that information better and faster and also create new ideas without worrying about forgetting something.
 
 ### Do this twice every day- Morning: to flush out your thoughts and get your creative juices flowing and Evening - to review your day and plan out the next.
 
 The easiest way to do this is using the classic pen and paper method.
+
+*We recommend this smart reusable notebook which lets you upload all your notes to Gdrive, Dropbox etc and then erase all the pages:*
+
+**[Rocketbook Smart](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B07WFVVCLX?tag=yesnobuybuy-20)**
+
+![Rocketbook Smart reusable eco friendly notebook](/assets/img/uploads/rocketbook-smart.png "Rocketbook Smart Eco-friendly notebook")
+
+Or make it easier to see your plans and ideas with a classic whiteboard. This is the preferred choice in every academic institution for a reason:
+
+**[AmazonBasics Whiteboard](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B07K6B8Q5V?tag=yesnobuybuy-20)**
+
+![AmazonBasics whiteboard for writing down notes](/assets/img/uploads/whiteboard.png "AmazonBasics Whiteboard")
