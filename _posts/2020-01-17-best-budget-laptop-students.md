@@ -7,9 +7,9 @@ description: >-
   The Best Budget Laptop for Students in 2020 under 400$: Acer Aspire. A true
   all-rounder.
 image: >-
-  https://res.cloudinary.com/samshady/image/upload/v1579297780/big_banner_vvernt.png
+  https://res.cloudinary.com/samshady/image/upload/v1580941026/best-budget-laptop-banner_dasnxn.png
 optimized_image: >-
-  https://res.cloudinary.com/samshady/image/upload/c_scale,w_380/v1579297780/big_banner_vvernt.png
+  https://res.cloudinary.com/samshady/image/upload/c_scale,w_380/v1580941026/best-budget-laptop-banner_dasnxn.png
 category: budget
 tags:
   - budget
