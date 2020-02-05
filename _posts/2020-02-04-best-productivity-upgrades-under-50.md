@@ -1,7 +1,7 @@
 ---
 date: '2020-02-04 11:41:22'
 layout: post
-title: Best Productivity Upgrades Under 50$
+title: 5 Productivity Upgrades Under 100$
 subtitle: >-
   Instant increase in productivity with smart yet affordable tools and
   techniques.
@@ -68,10 +68,22 @@ The key to this step however is to **not overdo it**. Standing up or sitting dow
 
 **The easiest and free way** to achieve this is to put some books or cardboard boxes on your table and use them for extra height. 
 
-However if you want a less messy option, [use a standing desk with adjustable height](amzn.to/382jeg6). 
+*However if you want a less messy option, [use a standing desk with adjustable height](amzn.to/382jeg6).* 
 
 Here's our top recommendation:
 
 **[SHW Height Adjustable Mobile Laptop Stand](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B073KTXFLS?tag=yesnobuybuy-20)**
 
 ![SHW Standing desk recommendation for standing up more](/assets/img/uploads/standing-desk.png "Best Standing desk with adjustable height")
+
+# Write Down Your Thoughts
+
+Writing down your ideas is a great way to clear up some space in your mind. 
+
+Remembering and keeping everything organized in the brain is hard.
+
+ When we externalize this process by taking out the information and organizing it on something else, we let the brain focus on other important tasks.
+
+It lets us process that information better and faster and also create new ideas without worrying about forgetting something.
+
+The easiest way to do this is to write down everything using the classic pen and paper method.
