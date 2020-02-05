@@ -3,7 +3,7 @@ date: '2020-02-04 11:41:22'
 layout: post
 title: Top 3 Productivity Upgrades Under 50$
 subtitle: >-
-  Instant increase in productivity with smart yet affordable tools and
+  Increase productivity instantly with smart yet affordable tools and
   techniques.
 description: 'Learn how to step up your daily productivity game with just 50$ and '
 category: work
@@ -108,4 +108,6 @@ Or make it easier to see your plans and ideas with a classic whiteboard. This is
 
 You don't have to spend a lot to do anything in our world, let alone be more productive. 
 
-Being resourceful and smart about your choices will ultimately lead you to more success than expensive, unreliable options that promise but do not deliver. Good luck!
+Being resourceful and smart about your choices will ultimately lead you to more success than expensive, unreliable options that promise a lot but do not deliver. 
+
+Good luck!
