@@ -80,6 +80,11 @@ test('Verify projects catalog contains core live projects', () => {
   assert.ok(projectsTs.includes('retro-handhelds-radar'));
   assert.ok(projectsTs.includes('iem-radar'));
   assert.ok(projectsTs.includes('halle-cafes'));
-  assert.ok(projectsTs.includes('diana-reyn'));
-  assert.ok(projectsTs.includes('erfurt-trip'));
+
+  // Ensure removed projects are not in catalog
+  assert.ok(!projectsTs.includes('diana-reyn'));
+  assert.ok(!projectsTs.includes('erfurt-trip'));
+  assert.ok(!projectsTs.includes('gestekarte-demo'));
+  assert.ok(!projectsTs.includes('rail-flow-release-notes'));
+  assert.ok(!projectsTs.includes('halle-dash'));
 });
