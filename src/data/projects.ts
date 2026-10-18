@@ -26,12 +26,12 @@ export const PROJECTS: Project[] = [
     id: 'tier-builder',
     title: 'TierCraft',
     tagline: 'Modern local-first tier list maker',
-    description: 'Fast, private tier list maker with animated GIFs, text cards, 1v1 gauntlet ranking, and 2x Retina PNG exports.',
+    description: 'Fast, private tier list maker with animated GIFs, text cards, 1v1 gauntlet ranking, and crisp high-resolution image exports.',
     category: 'tools',
     url: 'https://samshady.github.io/tier-builder/',
     github: 'https://github.com/samshady/tier-builder',
     accentColor: '#fab387', // Peach
-    badges: ['React 19', '@dnd-kit', 'IndexedDB', 'Retina PNG'],
+    badges: ['React 19', '@dnd-kit', 'IndexedDB', 'HD Export'],
     icon: 'layers',
   },
   {
