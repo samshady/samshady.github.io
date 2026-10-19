@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="100%" height="100%">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#fab387" stop-opacity="0.22" />
+      <stop offset="60%" stop-color="#181825" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#11111b" />
+    </radialGradient>
+    <linearGradient id="tierS" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f38ba8" />
+      <stop offset="100%" stop-color="#eba0ac" />
+    </linearGradient>
+    <linearGradient id="tierA" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fab387" />
+      <stop offset="100%" stop-color="#f9e2af" />
+    </linearGradient>
+    <linearGradient id="tierB" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a6e3a1" />
+      <stop offset="100%" stop-color="#94e2d5" />
+    </linearGradient>
+    <linearGradient id="tierC" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#89b4fa" />
+      <stop offset="100%" stop-color="#b4befe" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f9e2af" />
+      <stop offset="100%" stop-color="#fab387" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.5" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="640" height="360" fill="url(#bgGlow)" />
+
+  <!-- Ambient Grid Dots -->
+  <g opacity="0.12" fill="#cdd6f4">
+    <circle cx="80" cy="60" r="1.5" /><circle cx="160" cy="60" r="1.5" /><circle cx="240" cy="60" r="1.5" /><circle cx="320" cy="60" r="1.5" /><circle cx="400" cy="60" r="1.5" /><circle cx="480" cy="60" r="1.5" /><circle cx="560" cy="60" r="1.5" />
+    <circle cx="80" cy="140" r="1.5" /><circle cx="160" cy="140" r="1.5" /><circle cx="480" cy="140" r="1.5" /><circle cx="560" cy="140" r="1.5" />
+    <circle cx="80" cy="220" r="1.5" /><circle cx="160" cy="220" r="1.5" /><circle cx="480" cy="220" r="1.5" /><circle cx="560" cy="220" r="1.5" />
+    <circle cx="80" cy="300" r="1.5" /><circle cx="160" cy="300" r="1.5" /><circle cx="240" cy="300" r="1.5" /><circle cx="320" cy="300" r="1.5" /><circle cx="400" cy="300" r="1.5" /><circle cx="480" cy="300" r="1.5" /><circle cx="560" cy="300" r="1.5" />
+  </g>
+
+  <!-- Central Tier Stack -->
+  <g transform="translate(140, 52)" filter="url(#shadow)">
+    <!-- Row S -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="360" height="48" rx="10" fill="#1e1e2e" stroke="#313244" stroke-width="1.5" />
+      <rect x="0" y="0" width="54" height="48" rx="10" fill="url(#tierS)" />
+      <!-- Square off right corners of badge -->
+      <rect x="44" y="0" width="10" height="48" fill="url(#tierS)" />
+      <text x="27" y="32" font-family="'Bricolage Grotesque', sans-serif" font-weight="800" font-size="24" fill="#11111b" text-anchor="middle">S</text>
+      <!-- Mini Cards in S Row -->
+      <rect x="66" y="8" width="56" height="32" rx="6" fill="#313244" stroke="#45475a" stroke-width="1" />
+      <circle cx="94" cy="24" r="8" fill="#f38ba8" opacity="0.8" />
+      <rect x="130" y="8" width="56" height="32" rx="6" fill="#313244" stroke="#45475a" stroke-width="1" />
+      <rect x="146" y="16" width="24" height="16" rx="3" fill="#eba0ac" opacity="0.8" />
+      <rect x="194" y="8" width="56" height="32" rx="6" fill="#313244" stroke="#45475a" stroke-width="1" />
+      <polygon points="222,16 230,30 214,30" fill="#f9e2af" opacity="0.8" />
+    </g>
+
+    <!-- Row A -->
+    <g transform="translate(0, 58)">
+      <rect x="0" y="0" width="360" height="48" rx="10" fill="#1e1e2e" stroke="#313244" stroke-width="1.5" />
+      <rect x="0" y="0" width="54" height="48" rx="10" fill="url(#tierA)" />
+      <rect x="44" y="0" width="10" height="48" fill="url(#tierA)" />
+      <text x="27" y="32" font-family="'Bricolage Grotesque', sans-serif" font-weight="800" font-size="24" fill="#11111b" text-anchor="middle">A</text>
+      <!-- Mini Cards in A Row -->
+      <rect x="66" y="8" width="56" height="32" rx="6" fill="#313244" stroke="#45475a" stroke-width="1" />
+      <circle cx="94" cy="24" r="8" fill="#fab387" opacity="0.8" />
+      <rect x="130" y="8" width="56" height="32" rx="6" fill="#313244" stroke="#45475a" stroke-width="1" />
+      <polygon points="158,16 166,30 150,30" fill="#a6e3a1" opacity="0.8" />
+      <rect x="194" y="8" width="56" height="32" rx="6" fill="#313244" stroke="#45475a" stroke-width="1" />
+      <rect x="210" y="16" width="24" height="16" rx="3" fill="#89b4fa" opacity="0.8" />
+      <rect x="258" y="8" width="56" height="32" rx="6" fill="#313244" stroke="#45475a" stroke-width="1" />
+      <circle cx="286" cy="24" r="8" fill="#cba6f7" opacity="0.8" />
+    </g>
+
+    <!-- Row B -->
+    <g transform="translate(0, 116)">
+      <rect x="0" y="0" width="360" height="48" rx="10" fill="#1e1e2e" stroke="#313244" stroke-width="1.5" />
+      <rect x="0" y="0" width="54" height="48" rx="10" fill="url(#tierB)" />
+      <rect x="44" y="0" width="10" height="48" fill="url(#tierB)" />
+      <text x="27" y="32" font-family="'Bricolage Grotesque', sans-serif" font-weight="800" font-size="24" fill="#11111b" text-anchor="middle">B</text>
+      <!-- Mini Cards in B Row -->
+      <rect x="66" y="8" width="56" height="32" rx="6" fill="#313244" stroke="#45475a" stroke-width="1" />
+      <rect x="82" y="16" width="24" height="16" rx="3" fill="#a6e3a1" opacity="0.8" />
+      <rect x="130" y="8" width="56" height="32" rx="6" fill="#313244" stroke="#45475a" stroke-width="1" />
+      <circle cx="158" cy="24" r="8" fill="#94e2d5" opacity="0.8" />
+    </g>
+
+    <!-- Row C -->
+    <g transform="translate(0, 174)">
+      <rect x="0" y="0" width="360" height="48" rx="10" fill="#1e1e2e" stroke="#313244" stroke-width="1.5" />
+      <rect x="0" y="0" width="54" height="48" rx="10" fill="url(#tierC)" />
+      <rect x="44" y="0" width="10" height="48" fill="url(#tierC)" />
+      <text x="27" y="32" font-family="'Bricolage Grotesque', sans-serif" font-weight="800" font-size="24" fill="#11111b" text-anchor="middle">C</text>
+      <!-- Mini Cards in C Row -->
+      <rect x="66" y="8" width="56" height="32" rx="6" fill="#313244" stroke="#45475a" stroke-width="1" />
+      <circle cx="94" cy="24" r="8" fill="#89b4fa" opacity="0.8" />
+    </g>
+  </g>
+
+  <!-- Crown / Star Accents -->
+  <g transform="translate(100, 38)" filter="url(#glow)">
+    <path d="M 0 12 L 8 0 L 16 12 L 24 2 L 28 20 L -4 20 Z" fill="url(#gold)" />
+    <circle cx="8" cy="1" r="2.5" fill="#f9e2af" />
+    <circle cx="24" cy="3" r="2.5" fill="#f9e2af" />
+  </g>
+
+  <!-- 1v1 Gauntlet Crossed Swords Accent (Right Side) -->
+  <g transform="translate(530, 260) scale(1.1)" filter="url(#shadow)">
+    <!-- Sword 1 -->
+    <path d="M -30 -30 L 15 15 L 12 18 L -33 -27 Z" fill="#cdd6f4" />
+    <path d="M 12 12 L 22 10 L 20 20 Z" fill="#fab387" />
+    <!-- Sword 2 -->
+    <path d="M 15 -30 L -30 15 L -27 18 L 18 -27 Z" fill="#bac2de" />
+    <path d="M -12 12 L -22 10 L -20 20 Z" fill="#fab387" />
+    <!-- Central Clash Spark -->
+    <circle cx="-7.5" cy="-7.5" r="5" fill="#f9e2af" filter="url(#glow)" />
+  </g>
+
+  <!-- Subtle 4-Point Sparkles -->
+  <g fill="#f9e2af" opacity="0.75">
+    <path d="M 70 210 Q 75 210 75 205 Q 75 210 80 210 Q 75 210 75 215 Q 75 210 70 210 Z" />
+    <path d="M 540 80 Q 546 80 546 74 Q 546 80 552 80 Q 546 80 546 86 Q 546 80 540 80 Z" />
+  </g>
+</svg>

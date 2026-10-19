@@ -1,7 +1,5 @@
 import React from 'react';
-import { Globe } from 'lucide-react';
 import { GithubIcon } from './GithubIcon';
-
 
 export const Footer: React.FC = () => {
   return (
@@ -18,8 +16,6 @@ export const Footer: React.FC = () => {
           >
             Sam Shady
           </a>
-          <span>•</span>
-          <span>Open source on GitHub Pages</span>
         </div>
 
         {/* Right Links */}
@@ -32,16 +28,6 @@ export const Footer: React.FC = () => {
           >
             <GithubIcon className="w-4 h-4" />
             <span>GitHub Profile</span>
-          </a>
-
-          <a
-            href="https://dianareyn.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex items-center gap-1.5 hover:text-[#cdd6f4] transition-colors"
-          >
-            <Globe className="w-4 h-4" />
-            <span>Diana Reyn</span>
           </a>
         </div>
       </div>
