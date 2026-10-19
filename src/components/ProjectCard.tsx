@@ -58,59 +58,60 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({ project }) => {
       }}
     >
       {/* Visual Header / Graphic Anchor (Neal.fun style) */}
-      <div
-        className="h-44 p-6 flex flex-col justify-between relative overflow-hidden transition-colors"
-        style={{
-          background: `radial-gradient(circle at top right, ${project.accentColor}20, #181825 80%)`,
-          borderBottom: `1px solid #313244`,
-        }}
-      >
-        {/* Subtle decorative background watermarks */}
-        <div
-          className="absolute -right-4 -bottom-4 opacity-10 group-hover:opacity-20 transition-opacity transform group-hover:scale-110 duration-300 pointer-events-none"
-          style={{ color: project.accentColor }}
-        >
-          {getIcon(project.icon)}
-        </div>
+      <div className="h-48 relative overflow-hidden transition-colors border-b border-[#313244] bg-[#181825]">
+        {project.previewImage ? (
+          <img
+            src={project.previewImage}
+            alt={project.title}
+            className="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500 ease-out"
+            loading="lazy"
+          />
+        ) : (
+          <div
+            className="w-full h-full flex items-center justify-center"
+            style={{
+              background: `radial-gradient(circle at top right, ${project.accentColor}25, #181825 80%)`,
+            }}
+          >
+            {getIcon(project.icon)}
+          </div>
+        )}
+
+        {/* Gradient shadow overlay for badge readability */}
+        <div className="absolute inset-0 bg-gradient-to-t from-[#1e1e2e] via-black/20 to-black/50 pointer-events-none" />
 
         {/* Top Badges Row */}
-        <div className="flex items-center justify-between z-10">
+        <div className="absolute top-3.5 left-3.5 right-3.5 flex items-center justify-between z-10">
           <span
-            className="text-[11px] font-mono font-bold uppercase tracking-wider px-2.5 py-1 rounded-full border shadow-sm backdrop-blur-sm"
+            className="text-[11px] font-mono font-bold uppercase tracking-wider px-2.5 py-1 rounded-full border shadow-md backdrop-blur-md"
             style={{
-              backgroundColor: `${project.accentColor}15`,
+              backgroundColor: `${project.accentColor}30`,
               color: project.accentColor,
-              borderColor: `${project.accentColor}40`,
+              borderColor: `${project.accentColor}60`,
             }}
           >
             {project.category}
           </span>
 
-          {project.isLocalOnly && (
-            <span className="text-[10px] font-mono text-[#f9e2af] bg-[#f9e2af]/10 border border-[#f9e2af]/30 px-2 py-0.5 rounded-full">
-              Local / Kiosk
-            </span>
-          )}
-        </div>
-
-        {/* Center Graphic Illustration */}
-        <div className="flex items-center gap-3.5 z-10">
           <div
-            className="w-16 h-16 rounded-2xl flex items-center justify-center p-3 shadow-inner border border-white/10 group-hover:scale-105 transition-transform"
+            className="w-8 h-8 rounded-lg flex items-center justify-center p-1.5 shadow-md border border-white/10 backdrop-blur-md"
             style={{
-              backgroundColor: `${project.accentColor}18`,
+              backgroundColor: `${project.accentColor}35`,
+              color: project.accentColor,
             }}
           >
             {getIcon(project.icon)}
           </div>
-          <div>
-            <h3 className="font-display font-extrabold text-xl md:text-2xl text-[#cdd6f4] group-hover:text-white transition-colors leading-tight">
-              {project.title}
-            </h3>
-            <p className="text-xs font-medium text-[#a6adc8] mt-0.5 line-clamp-1">
-              {project.tagline}
-            </p>
-          </div>
+        </div>
+
+        {/* Bottom Title Bar overlayed over preview base */}
+        <div className="absolute bottom-3 left-4 right-4 z-10 flex flex-col">
+          <h3 className="font-display font-extrabold text-xl text-white drop-shadow-md leading-tight group-hover:text-[#cba6f7] transition-colors">
+            {project.title}
+          </h3>
+          <p className="text-xs font-medium text-[#cdd6f4] drop-shadow line-clamp-1 mt-0.5">
+            {project.tagline}
+          </p>
         </div>
       </div>
 
