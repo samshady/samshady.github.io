@@ -32,7 +32,7 @@ export const PROJECTS: Project[] = [
     accentColor: '#fab387', // Peach
     badges: ['React 19', '@dnd-kit', 'IndexedDB', 'HD Export'],
     icon: 'layers',
-    previewImage: './previews/tier-builder.webp',
+    previewImage: './previews/tier-builder.svg',
   },
   {
     id: 'watch-radar',
@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
     accentColor: '#f9e2af', // Amber
     badges: ['Horology', 'Seiko NH35/VH31', 'Sapphire', 'Alloy Bench'],
     icon: 'watch',
-    previewImage: './previews/watch-radar.webp',
+    previewImage: './previews/watch-radar.svg',
   },
   {
     id: 'retro-handhelds-radar',
@@ -58,7 +58,7 @@ export const PROJECTS: Project[] = [
     accentColor: '#a6e3a1', // Emerald
     badges: ['muOS/OnionOS', 'PortMaster', 'Anbernic/Miyoo', 'EU Pricing'],
     icon: 'gamepad-2',
-    previewImage: './previews/retro-handhelds-radar.webp',
+    previewImage: './previews/retro-handhelds-radar.svg',
   },
   {
     id: 'iem-radar',
@@ -71,7 +71,7 @@ export const PROJECTS: Project[] = [
     accentColor: '#cba6f7', // Mauve
     badges: ['Audiophile', 'Harman Target', 'Nozzle Specs', 'Sound Demos'],
     icon: 'headphones',
-    previewImage: './previews/iem-radar.webp',
+    previewImage: './previews/iem-radar.svg',
   },
   {
     id: 'halle-cafes',
@@ -84,6 +84,6 @@ export const PROJECTS: Project[] = [
     accentColor: '#f5e0dc', // Rosewater
     badges: ['PWA', 'MapLibre GL', 'Vector Tiles', 'Offline-First'],
     icon: 'coffee',
-    previewImage: './previews/halle-cafes.webp',
+    previewImage: './previews/halle-cafes.svg',
   },
 ];
