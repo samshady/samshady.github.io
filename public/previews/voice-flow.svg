@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="100%" height="100%">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#89b4fa" stop-opacity="0.25" />
+      <stop offset="60%" stop-color="#181825" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#11111b" />
+    </radialGradient>
+    <linearGradient id="micGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#89b4fa" />
+      <stop offset="100%" stop-color="#b4befe" />
+    </linearGradient>
+    <linearGradient id="waveGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#cba6f7" stop-opacity="0.2" />
+      <stop offset="35%" stop-color="#89b4fa" />
+      <stop offset="70%" stop-color="#a6e3a1" />
+      <stop offset="100%" stop-color="#f9e2af" stop-opacity="0.2" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.6" />
+    </filter>
+    <filter id="micShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#89b4fa" flood-opacity="0.4" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="640" height="360" fill="url(#bgGlow)" />
+
+  <!-- Ambient Grid Dots -->
+  <g opacity="0.12" fill="#cdd6f4">
+    <circle cx="80" cy="60" r="1.5" /><circle cx="160" cy="60" r="1.5" /><circle cx="240" cy="60" r="1.5" /><circle cx="320" cy="60" r="1.5" /><circle cx="400" cy="60" r="1.5" /><circle cx="480" cy="60" r="1.5" /><circle cx="560" cy="60" r="1.5" />
+    <circle cx="80" cy="140" r="1.5" /><circle cx="160" cy="140" r="1.5" /><circle cx="480" cy="140" r="1.5" /><circle cx="560" cy="140" r="1.5" />
+    <circle cx="80" cy="220" r="1.5" /><circle cx="160" cy="220" r="1.5" /><circle cx="480" cy="220" r="1.5" /><circle cx="560" cy="220" r="1.5" />
+    <circle cx="80" cy="300" r="1.5" /><circle cx="160" cy="300" r="1.5" /><circle cx="240" cy="300" r="1.5" /><circle cx="320" cy="300" r="1.5" /><circle cx="400" cy="300" r="1.5" /><circle cx="480" cy="300" r="1.5" /><circle cx="560" cy="300" r="1.5" />
+  </g>
+
+  <!-- Pulse Rings around central mic -->
+  <circle cx="320" cy="150" r="88" fill="none" stroke="#89b4fa" stroke-opacity="0.15" stroke-width="2" />
+  <circle cx="320" cy="150" r="120" fill="none" stroke="#89b4fa" stroke-opacity="0.08" stroke-width="1.5" stroke-dasharray="4 6" />
+
+  <!-- Audio Waveform (Tactile speech visualizer) -->
+  <path d="M 60 270 Q 120 270, 160 250 T 240 290 T 320 210 T 400 310 T 480 240 T 580 270" 
+        fill="none" stroke="url(#waveGlow)" stroke-width="3" stroke-linecap="round" />
+  <path d="M 100 270 Q 160 270, 200 260 T 280 275 T 320 230 T 360 295 T 440 255 T 540 270" 
+        fill="none" stroke="#89b4fa" stroke-opacity="0.35" stroke-width="1.5" stroke-linecap="round" />
+
+  <!-- Central Glass Card -->
+  <g transform="translate(180, 70)" filter="url(#shadow)">
+    <!-- Container -->
+    <rect x="0" y="0" width="280" height="160" rx="20" fill="#1e1e2e" stroke="#313244" stroke-width="2" />
+    
+    <!-- Top badge -->
+    <rect x="20" y="16" width="70" height="22" rx="11" fill="#89b4fa" fill-opacity="0.2" stroke="#89b4fa" stroke-opacity="0.4" stroke-width="1" />
+    <circle cx="32" cy="27" r="4" fill="#a6e3a1" />
+    <text x="42" y="31" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#cdd6f4">LIVE 16k</text>
+
+    <!-- Latency pill -->
+    <rect x="186" y="16" width="74" height="22" rx="11" fill="#313244" stroke="#45475a" stroke-width="1" />
+    <text x="223" y="31" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#a6adc8" text-anchor="middle">&lt;200ms</text>
+
+    <!-- Central Glowing Mic Icon -->
+    <g transform="translate(116, 50)" filter="url(#micShadow)">
+      <!-- Outer circle -->
+      <circle cx="24" cy="24" r="28" fill="#89b4fa" />
+      <!-- Mic Shape -->
+      <rect x="18" y="10" width="12" height="18" rx="6" fill="#11111b" />
+      <path d="M 12 22 C 12 28.5, 36 28.5, 36 22" fill="none" stroke="#11111b" stroke-width="3" stroke-linecap="round" />
+      <line x1="24" y1="28" x2="24" y2="34" stroke="#11111b" stroke-width="3" stroke-linecap="round" />
+      <line x1="17" y1="34" x2="31" y2="34" stroke="#11111b" stroke-width="3" stroke-linecap="round" />
+    </g>
+
+    <!-- Live transcription preview snippet -->
+    <g transform="translate(24, 126)">
+      <text x="0" y="0" font-family="'Inter', sans-serif" font-size="12" font-weight="500" fill="#bac2de">
+        "Speaking naturally, streaming live..."
+      </text>
+    </g>
+  </g>
+</svg>
