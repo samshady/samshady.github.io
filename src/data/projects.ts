@@ -5,6 +5,7 @@ export interface Project {
   description: string;
   category: 'tools' | 'radars' | 'local';
   url: string;
+  localUrl?: string;
   github?: string;
   accentColor: string;
   badges: string[];
@@ -28,6 +29,7 @@ export const PROJECTS: Project[] = [
     description: 'Zero-latency streaming dictation powered by Moonshine v2 and Faster-Whisper GPU polish with instant note capture.',
     category: 'tools',
     url: 'https://sam-gpu-pc.tail614c50.ts.net/',
+    localUrl: 'http://localhost:8090',
     accentColor: '#89b4fa', // Blue
     badges: ['Moonshine v2', 'Faster-Whisper', 'Web Audio', 'Ollama AI'],
     icon: 'mic',
