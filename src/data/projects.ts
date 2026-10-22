@@ -22,6 +22,18 @@ export const CATEGORIES = [
 
 export const PROJECTS: Project[] = [
   {
+    id: 'voice-flow',
+    title: 'VoiceFlow',
+    tagline: 'Real-time streaming speech dictation',
+    description: 'Zero-latency streaming dictation powered by Moonshine v2 and Faster-Whisper GPU polish with instant note capture.',
+    category: 'tools',
+    url: 'https://sam-gpu-pc.tail614c50.ts.net/',
+    accentColor: '#89b4fa', // Blue
+    badges: ['Moonshine v2', 'Faster-Whisper', 'Web Audio', 'Ollama AI'],
+    icon: 'mic',
+    previewImage: './previews/voice-flow.svg',
+  },
+  {
     id: 'tier-builder',
     title: 'TierCraft',
     tagline: 'Modern local-first tier list maker',

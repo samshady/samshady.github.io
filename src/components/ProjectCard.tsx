@@ -12,6 +12,7 @@ import {
   LayoutDashboard,
   ExternalLink,
   Sparkles,
+  Mic,
 } from 'lucide-react';
 import { GithubIcon } from './GithubIcon';
 import type { Project } from '../data/projects';
@@ -27,6 +28,8 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({ project }) => {
     switch (iconName) {
       case 'layers':
         return <Layers {...props} />;
+      case 'mic':
+        return <Mic {...props} />;
       case 'watch':
         return <Watch {...props} />;
       case 'gamepad-2':

@@ -75,6 +75,7 @@ test('Verify mobile touch target standards in index.css', () => {
 
 test('Verify projects catalog contains core live projects', () => {
   const projectsTs = fs.readFileSync(path.resolve('src/data/projects.ts'), 'utf8');
+  assert.ok(projectsTs.includes('voice-flow'));
   assert.ok(projectsTs.includes('tier-builder'));
   assert.ok(projectsTs.includes('watch-radar'));
   assert.ok(projectsTs.includes('retro-handhelds-radar'));
