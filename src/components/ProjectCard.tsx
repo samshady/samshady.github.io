@@ -13,6 +13,7 @@ import {
   ExternalLink,
   Sparkles,
   Mic,
+  Laptop,
 } from 'lucide-react';
 import { GithubIcon } from './GithubIcon';
 import type { Project } from '../data/projects';
@@ -142,14 +143,28 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({ project }) => {
             href={project.url}
             target="_blank"
             rel="noopener noreferrer"
+            title="Open public / mobile version"
             className="tactile-btn flex-1 py-2.5 px-4 rounded-xl font-display font-bold text-xs md:text-sm text-[#11111b] flex items-center justify-center gap-2 shadow-sm transition-all"
             style={{
               backgroundColor: project.accentColor,
             }}
           >
-            <span>Launch App</span>
+            <span>{project.localUrl ? 'Public / Phone' : 'Launch App'}</span>
             <ExternalLink className="w-4 h-4" />
           </a>
+
+          {project.localUrl && (
+            <a
+              href={project.localUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Open local laptop version (localhost:8090)"
+              className="tactile-btn py-2.5 px-3 rounded-xl bg-[#181825] hover:bg-[#313244] text-[#cdd6f4] border border-[#313244] flex items-center justify-center gap-1.5 font-display font-semibold text-xs md:text-sm shadow-sm transition-all"
+            >
+              <Laptop className="w-4 h-4 text-[#89b4fa]" />
+              <span>Local</span>
+            </a>
+          )}
 
           {project.github && (
             <a
@@ -161,7 +176,6 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({ project }) => {
             >
               <GithubIcon className="w-4 h-4" />
             </a>
-
           )}
         </div>
       </div>
