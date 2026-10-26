@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="100%" height="100%">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="65%">
+      <stop offset="0%" stop-color="#f9e2af" stop-opacity="0.20" />
+      <stop offset="60%" stop-color="#181825" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#11111b" />
+    </radialGradient>
+    <linearGradient id="bezelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#585b70" />
+      <stop offset="50%" stop-color="#313244" />
+      <stop offset="100%" stop-color="#1e1e2e" />
+    </linearGradient>
+    <linearGradient id="dialGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#181825" />
+      <stop offset="100%" stop-color="#11111b" />
+    </linearGradient>
+    <linearGradient id="amberGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f9e2af" />
+      <stop offset="100%" stop-color="#fab387" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.6" />
+    </filter>
+    <filter id="lumeGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="640" height="360" fill="url(#bgGlow)" />
+
+  <!-- Technical Caliper Reference Lines (Sub-€80 / 15-17cm wrist radar) -->
+  <g opacity="0.18" stroke="#f9e2af" stroke-width="1.2">
+    <!-- Lug-to-Lug measurement brackets -->
+    <line x1="170" y1="50" x2="170" y2="310" stroke-dasharray="4,4" />
+    <line x1="470" y1="50" x2="470" y2="310" stroke-dasharray="4,4" />
+    <line x1="160" y1="50" x2="180" y2="50" />
+    <line x1="160" y1="310" x2="180" y2="310" />
+    <text x="145" y="185" font-family="'JetBrains Mono', monospace" font-size="11" fill="#f9e2af" text-anchor="middle" transform="rotate(-90 145 185)">46.5 mm L2L</text>
+    <text x="495" y="185" font-family="'JetBrains Mono', monospace" font-size="11" fill="#f9e2af" text-anchor="middle" transform="rotate(90 495 185)">38.0 mm CASE</text>
+  </g>
+
+  <!-- Watch Straps (Top and Bottom) -->
+  <g fill="#181825" stroke="#313244" stroke-width="2" opacity="0.9">
+    <path d="M 270 0 L 270 70 L 370 70 L 370 0 Z" />
+    <path d="M 270 290 L 270 360 L 370 360 L 370 290 Z" />
+    <!-- Strap Stitching -->
+    <line x1="276" y1="0" x2="276" y2="65" stroke="#fab387" stroke-dasharray="3,3" opacity="0.4" />
+    <line x1="364" y1="0" x2="364" y2="65" stroke="#fab387" stroke-dasharray="3,3" opacity="0.4" />
+    <line x1="276" y1="295" x2="276" y2="360" stroke="#fab387" stroke-dasharray="3,3" opacity="0.4" />
+    <line x1="364" y1="295" x2="364" y2="360" stroke="#fab387" stroke-dasharray="3,3" opacity="0.4" />
+  </g>
+
+  <!-- Watch Case with Lugs -->
+  <g filter="url(#shadow)">
+    <!-- Stainless Steel Lugs -->
+    <path d="M 260 70 C 260 110 260 250 260 290 L 285 290 C 285 250 285 110 285 70 Z" fill="#313244" />
+    <path d="M 380 70 C 380 110 380 250 380 290 L 355 290 C 355 250 355 110 355 70 Z" fill="#313244" />
+
+    <!-- Outer Bezel Ring -->
+    <circle cx="320" cy="180" r="114" fill="url(#bezelGrad)" stroke="#45475a" stroke-width="2" />
+    
+    <!-- Knurled Crown at 3 o'clock -->
+    <rect x="432" y="167" width="16" height="26" rx="4" fill="#585b70" stroke="#45475a" stroke-width="1.5" />
+    <line x1="436" y1="170" x2="436" y2="190" stroke="#181825" stroke-width="1" />
+    <line x1="440" y1="170" x2="440" y2="190" stroke="#181825" stroke-width="1" />
+    <line x1="444" y1="170" x2="444" y2="190" stroke="#181825" stroke-width="1" />
+
+    <!-- Ceramic Inset Bezel with 60-Minute Dive Markers -->
+    <circle cx="320" cy="180" r="102" fill="#181825" stroke="#f9e2af" stroke-width="1.5" stroke-opacity="0.3" />
+    
+    <!-- 12 o'clock Lume Pip -->
+    <polygon points="320,82 326,92 314,92" fill="#a6e3a1" filter="url(#lumeGlow)" />
+    <!-- Bezel Numerals -->
+    <text x="395" y="185" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="bold" fill="#bac2de" text-anchor="middle">15</text>
+    <text x="320" y="272" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="bold" fill="#bac2de" text-anchor="middle">30</text>
+    <text x="245" y="185" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="bold" fill="#bac2de" text-anchor="middle">45</text>
+
+    <!-- Inner Sapphire Dial -->
+    <circle cx="320" cy="180" r="82" fill="url(#dialGrad)" stroke="#313244" stroke-width="1.5" />
+
+    <!-- Minute Track -->
+    <circle cx="320" cy="180" r="76" fill="none" stroke="#45475a" stroke-width="1" stroke-dasharray="2,6.15" opacity="0.6" />
+
+    <!-- Applied Luminous Hour Markers -->
+    <!-- 12 o'clock inverted triangle -->
+    <polygon points="320,110 326,122 314,122" fill="#a6e3a1" filter="url(#lumeGlow)" />
+    <!-- 3 o'clock baton with Date Window -->
+    <rect x="366" y="174" width="18" height="12" rx="2" fill="#181825" stroke="#f9e2af" stroke-width="1" />
+    <text x="375" y="183.5" font-family="'JetBrains Mono', monospace" font-size="8.5" font-weight="bold" fill="#f9e2af" text-anchor="middle">28</text>
+    <!-- 6 o'clock baton -->
+    <rect x="317" y="238" width="6" height="14" rx="2" fill="#a6e3a1" filter="url(#lumeGlow)" />
+    <!-- 9 o'clock baton -->
+    <rect x="248" y="177" width="14" height="6" rx="2" fill="#a6e3a1" filter="url(#lumeGlow)" />
+
+    <!-- Circular Hour Markers: 1, 2, 4, 5, 7, 8, 10, 11 -->
+    <circle cx="355" cy="120" r="4" fill="#a6e3a1" filter="url(#lumeGlow)" />
+    <circle cx="380" cy="145" r="4" fill="#a6e3a1" filter="url(#lumeGlow)" />
+    <circle cx="380" cy="215" r="4" fill="#a6e3a1" filter="url(#lumeGlow)" />
+    <circle cx="355" cy="240" r="4" fill="#a6e3a1" filter="url(#lumeGlow)" />
+    <circle cx="285" cy="240" r="4" fill="#a6e3a1" filter="url(#lumeGlow)" />
+    <circle cx="260" cy="215" r="4" fill="#a6e3a1" filter="url(#lumeGlow)" />
+    <circle cx="260" cy="145" r="4" fill="#a6e3a1" filter="url(#lumeGlow)" />
+    <circle cx="285" cy="120" r="4" fill="#a6e3a1" filter="url(#lumeGlow)" />
+
+    <!-- Dial Text -->
+    <text x="320" y="148" font-family="'Bricolage Grotesque', sans-serif" font-size="9" font-weight="bold" fill="#f9e2af" letter-spacing="1.5" text-anchor="middle">AUTOMATIC</text>
+    <text x="320" y="215" font-family="'JetBrains Mono', monospace" font-size="7.5" fill="#a6adc8" letter-spacing="1" text-anchor="middle">200m / 660ft</text>
+
+    <!-- Watch Hands pointing to 10:10 -->
+    <!-- Hour Hand -->
+    <g transform="rotate(-60 320 180)" filter="url(#shadow)">
+      <polygon points="317,180 318,135 320,130 322,135 323,180" fill="#cdd6f4" stroke="#313244" stroke-width="0.8" />
+      <rect x="318.5" y="138" width="3" height="34" rx="1" fill="#a6e3a1" />
+    </g>
+
+    <!-- Minute Hand -->
+    <g transform="rotate(60 320 180)" filter="url(#shadow)">
+      <polygon points="317.5,180 318.5,115 320,108 321.5,115 322.5,180" fill="#cdd6f4" stroke="#313244" stroke-width="0.8" />
+      <rect x="318.5" y="118" width="3" height="52" rx="1" fill="#a6e3a1" />
+    </g>
+
+    <!-- Seconds Hand (Orange/Amber with Lollipop Counterbalance) -->
+    <g transform="rotate(145 320 180)">
+      <line x1="320" y1="210" x2="320" y2="105" stroke="#fab387" stroke-width="1.2" />
+      <circle cx="320" cy="125" r="3.5" fill="#fab387" />
+      <circle cx="320" cy="125" r="2" fill="#f9e2af" />
+      <circle cx="320" cy="202" r="3" fill="#fab387" />
+    </g>
+
+    <!-- Center Pin -->
+    <circle cx="320" cy="180" r="4.5" fill="#f9e2af" stroke="#181825" stroke-width="1.5" />
+  </g>
+</svg>

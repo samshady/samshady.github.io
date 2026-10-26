@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="100%" height="100%">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="65%">
+      <stop offset="0%" stop-color="#f5e0dc" stop-opacity="0.20" />
+      <stop offset="60%" stop-color="#181825" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#11111b" />
+    </radialGradient>
+    <linearGradient id="cupGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#45475a" />
+      <stop offset="50%" stop-color="#313244" />
+      <stop offset="100%" stop-color="#1e1e2e" />
+    </linearGradient>
+    <linearGradient id="cremaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b4633d" />
+      <stop offset="50%" stop-color="#8a4124" />
+      <stop offset="100%" stop-color="#4a2211" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.65" />
+    </filter>
+    <filter id="steamGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="640" height="360" fill="url(#bgGlow)" />
+
+  <!-- Geographic Contour Map Rings (Halle Saale river & topography) -->
+  <g opacity="0.10" stroke="#f5e0dc" stroke-width="1.2" fill="none">
+    <ellipse cx="320" cy="200" rx="280" ry="120" stroke-dasharray="6,8" />
+    <ellipse cx="320" cy="200" rx="230" ry="98" />
+    <ellipse cx="320" cy="200" rx="180" ry="76" stroke-dasharray="4,6" />
+    <!-- River Saale curve line -->
+    <path d="M 60 80 Q 200 120, 260 200 T 420 280 T 580 320" stroke="#89b4fa" stroke-width="2.5" opacity="0.4" />
+  </g>
+
+  <!-- Map Marker Pin with Coffee Bean (Left Side) -->
+  <g transform="translate(130, 110)" filter="url(#shadow)">
+    <!-- Pin Head -->
+    <path d="M 0 0 C -18 -24, -18 -50, 0 -68 C 18 -50, 18 -24, 0 0 Z" fill="#fab387" />
+    <circle cx="0" cy="-45" r="14" fill="#181825" />
+    <!-- Miniature Coffee Bean in Pin -->
+    <ellipse cx="0" cy="-45" rx="7" ry="9" fill="#f5e0dc" transform="rotate(25 0 -45)" />
+    <path d="M -1.5 -53 Q 2 -45, -1.5 -37" stroke="#181825" stroke-width="1.5" fill="none" />
+    <!-- Pin Base Shadow -->
+    <ellipse cx="0" cy="4" rx="8" ry="3" fill="#000000" opacity="0.4" />
+  </g>
+
+  <!-- Coordinates / City Marker -->
+  <g font-family="'JetBrains Mono', monospace" font-size="9" fill="#a6adc8" opacity="0.55">
+    <text x="510" y="70" text-anchor="middle">51.4828° N, 11.9698° E</text>
+    <text x="510" y="86" text-anchor="middle" font-weight="bold" fill="#f5e0dc">HALLE (SAALE)</text>
+  </g>
+
+  <!-- Coffee Cup & Saucer Assembly (Center) -->
+  <g transform="translate(320, 195)" filter="url(#shadow)">
+    <!-- Ceramic Saucer -->
+    <ellipse cx="0" cy="30" rx="150" ry="46" fill="#1e1e2e" stroke="#313244" stroke-width="2" />
+    <ellipse cx="0" cy="28" rx="138" ry="40" fill="#181825" stroke="#45475a" stroke-width="1" />
+    <ellipse cx="0" cy="26" rx="90" ry="24" fill="#24273a" />
+
+    <!-- Cup Handle -->
+    <path d="M 90 -20 C 135 -20, 135 40, 85 40" fill="none" stroke="#313244" stroke-width="14" stroke-linecap="round" />
+    <path d="M 90 -20 C 130 -20, 130 40, 85 40" fill="none" stroke="#45475a" stroke-width="8" stroke-linecap="round" />
+
+    <!-- Cup Outer Body -->
+    <path d="M -90 -25 C -90 45, -60 70, 0 70 C 60 70, 90 45, 90 -25 Z" fill="url(#cupGrad)" stroke="#45475a" stroke-width="2" />
+    
+    <!-- Cup Rim -->
+    <ellipse cx="0" cy="-25" rx="90" ry="30" fill="#313244" stroke="#585b70" stroke-width="1.5" />
+
+    <!-- Rich Crema Liquid Surface -->
+    <ellipse cx="0" cy="-24" rx="80" ry="25" fill="url(#cremaGrad)" />
+
+    <!-- Latte Art: 3-Tier Tulip / Rosette in Pristine Milk Foam -->
+    <g transform="translate(0, -25)" fill="#f5e0dc" opacity="0.95">
+      <!-- Heart Base (Top) -->
+      <path d="M 0 -12 C -6 -18, -16 -12, -10 -4 Q 0 4, 0 8 Q 0 4, 10 -4 C 16 -12, 6 -18, 0 -12 Z" />
+      
+      <!-- Middle Leaf Layer -->
+      <path d="M 0 -2 C -18 -6, -26 4, -14 10 Q 0 14, 0 16 Q 0 14, 14 10 C 26 4, 18 -6, 0 -2 Z" />
+
+      <!-- Bottom Outer Leaf Layer -->
+      <path d="M 0 6 C -26 2, -34 14, -18 19 Q 0 22, 0 23 Q 0 22, 18 19 C 34 14, 26 2, 0 6 Z" />
+      
+      <!-- Center Stem Slice -->
+      <line x1="0" y1="-14" x2="0" y2="24" stroke="#8a4124" stroke-width="1.8" stroke-linecap="round" />
+    </g>
+  </g>
+
+  <!-- Swirling Aromatic Steam Lines -->
+  <g stroke="#f5e0dc" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.35" filter="url(#steamGlow)">
+    <path d="M 285 130 C 275 105, 295 85, 280 60 C 270 45, 285 30, 275 15" />
+    <path d="M 320 125 C 310 95, 335 75, 320 45 C 310 30, 325 15, 315 5" stroke-width="2.5" />
+    <path d="M 355 130 C 365 105, 345 85, 360 60 C 370 45, 355 30, 365 15" />
+  </g>
+
+  <!-- Floating Roasted Coffee Beans -->
+  <g fill="#fab387" opacity="0.6">
+    <g transform="translate(480, 220) rotate(35) scale(0.9)">
+      <ellipse cx="0" cy="0" rx="9" ry="13" />
+      <path d="M -2 -11 Q 3 0, -2 11" stroke="#181825" stroke-width="1.8" fill="none" />
+    </g>
+    <g transform="translate(180, 260) rotate(-25) scale(0.75)">
+      <ellipse cx="0" cy="0" rx="9" ry="13" />
+      <path d="M -2 -11 Q 3 0, -2 11" stroke="#181825" stroke-width="1.8" fill="none" />
+    </g>
+  </g>
+</svg>
